@@ -5,7 +5,7 @@
 
 ![img](assets/release.png)
 
-[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](../../release)
+[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](../../releases)
 
 ---
 
