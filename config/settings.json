@@ -1,0 +1,54 @@
+{
+    "version": "1.0.0-demo",
+    "app_name": "PUBG Enhancement Tool Demo",
+    "features": {
+        "esp": {
+            "enabled": false,
+            "range": 100,
+            "color": "#FF0000",
+            "show_names": false,
+            "show_distance": false
+        },
+        "aimbot": {
+            "enabled": false,
+            "fov": 60,
+            "smooth": 5,
+            "target_bone": "head",
+            "auto_fire": false
+        },
+        "recoil_control": {
+            "enabled": false,
+            "strength": 50,
+            "weapons": {
+                "ak47": {"x": 0, "y": 0},
+                "m416": {"x": 0, "y": 0},
+                "scar": {"x": 0, "y": 0}
+            }
+        },
+        "radar": {
+            "enabled": false,
+            "size": 200,
+            "opacity": 80,
+            "position": "top_right"
+        },
+        "misc": {
+            "speed_hack": false,
+            "no_fall_damage": false,
+            "infinite_ammo": false,
+            "auto_loot": false
+        }
+    },
+    "hotkeys": {
+        "toggle_esp": "F1",
+        "toggle_aimbot": "F2",
+        "toggle_recoil": "F3",
+        "toggle_radar": "F4",
+        "panic_key": "DELETE"
+    },
+    "detection": {
+        "anti_screenshot": false,
+        "random_delays": true,
+        "stealth_mode": true
+    },
+    "note": "This is a demo configuration file. No actual functionality is implemented."
+}

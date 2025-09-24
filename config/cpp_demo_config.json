@@ -1,0 +1,133 @@
+{
+    "demo_info": {
+        "version": "1.0.0-cpp-demo",
+        "app_name": "PUBG Enhancement Tool C++ Demo",
+        "language": "C++",
+        "build_date": "2024-09-24",
+        "functionality": "None - Demo Only"
+    },
+    "overlay_settings": {
+        "initialization": {
+            "auto_inject": false,
+            "process_name": "TslGame.exe",
+            "injection_method": "manual_dll",
+            "dx_version": "dx11",
+            "status": "disabled_demo"
+        },
+        "rendering": {
+            "fps_limit": 60,
+            "vsync": false,
+            "transparency": 0.8,
+            "font_size": 12,
+            "color_scheme": "green_matrix"
+        }
+    },
+    "features": {
+        "esp": {
+            "enabled": false,
+            "player_boxes": false,
+            "player_names": false,
+            "player_distance": false,
+            "player_health": false,
+            "loot_items": false,
+            "vehicles": false,
+            "max_distance": 500,
+            "color_enemies": "#FF0000",
+            "color_teammates": "#00FF00",
+            "status": "non_functional"
+        },
+        "aimbot": {
+            "enabled": false,
+            "auto_aim": false,
+            "auto_fire": false,
+            "smooth_aiming": 5,
+            "fov_circle": 60,
+            "target_bone": "head",
+            "prediction": false,
+            "status": "non_functional"
+        },
+        "recoil_control": {
+            "enabled": false,
+            "compensation_strength": 50,
+            "weapon_specific": true,
+            "weapons": {
+                "ak47": {"pattern_x": [0, 1, -1, 2], "pattern_y": [2, 3, 4, 5]},
+                "m416": {"pattern_x": [0, 0, 1, -1], "pattern_y": [1, 2, 3, 4]},
+                "scar": {"pattern_x": [0, 1, 0, -1], "pattern_y": [1, 2, 3, 3]}
+            },
+            "status": "non_functional"
+        },
+        "radar": {
+            "enabled": false,
+            "window_size": 200,
+            "zoom_level": 1.0,
+            "show_enemies": false,
+            "show_loot": false,
+            "position": "top_right",
+            "opacity": 80,
+            "status": "non_functional"
+        },
+        "misc": {
+            "speed_hack": {
+                "enabled": false,
+                "multiplier": 1.0,
+                "status": "non_functional"
+            },
+            "infinite_ammo": {
+                "enabled": false,
+                "status": "non_functional"
+            },
+            "no_fall_damage": {
+                "enabled": false,
+                "status": "non_functional"
+            },
+            "auto_loot": {
+                "enabled": false,
+                "priority_items": [],
+                "status": "non_functional"
+            }
+        }
+    },
+    "hotkeys": {
+        "toggle_overlay": "INSERT",
+        "toggle_esp": "F1",
+        "toggle_aimbot": "F2",
+        "toggle_recoil": "F3",
+        "toggle_radar": "F4",
+        "panic_disable_all": "DELETE",
+        "save_config": "F9",
+        "load_config": "F10"
+    },
+    "security": {
+        "anti_screenshot": false,
+        "process_hiding": false,
+        "random_delays": true,
+        "signature_scrambling": false,
+        "vm_detection": true,
+        "debugger_detection": true,
+        "status": "demo_security_disabled"
+    },
+    "system_requirements": {
+        "min_os": "Windows 10",
+        "min_ram_gb": 8,
+        "min_cpu_cores": 4,
+        "min_gpu": "GTX 1060",
+        "min_disk_space_gb": 2,
+        "required_privileges": "administrator",
+        "check_result": "always_fail_demo"
+    },
+    "logging": {
+        "enabled": true,
+        "log_level": "info",
+        "log_file": "demo_log.txt",
+        "max_log_size_mb": 10,
+        "auto_cleanup": true
+    },
+    "demo_notes": [
+        "This is a non-functional demonstration configuration",
+        "All features are disabled and will not work",
+        "System checks always return failure",
+        "No actual game modification occurs",
+        "For educational purposes only"
+    ]
+}
