@@ -4,3 +4,4 @@ Validate new assumptions
 Draft recovery notes
 Update hedging plan
 Update rollback notes
+Record arbitration steps
