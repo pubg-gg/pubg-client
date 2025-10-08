@@ -24,3 +24,4 @@ Draft tuning plan
 Summarize hyperparam runs
 Summarize testing report
 Update proof-of-concept
+Record edge cases
