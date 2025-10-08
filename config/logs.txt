@@ -1,15 +1,1 @@
-Define success criteria
-Record load test data
-Note trend shifts
-Capture retention risks
-Define success criteria
-Summarize rollout success
-Record action items
-Note pipeline DAG
-Plan oncall shifts
-Record steering notes
-Update portfolio deck
-Summarize quota usage
-Summarize restore drills
-Summarize responsive fixes
-Summarize feedback loops
+Review architecture decisions
