@@ -17,3 +17,4 @@ Summarize journalist list
 Draft tuning plan
 Note trending topics
 Log daily progress
+List community ideas
