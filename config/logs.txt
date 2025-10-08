@@ -6,3 +6,4 @@ Record edge cases
 Capture UI feedback
 Note coverage scores
 Record downtime reports
+Note design refresh
