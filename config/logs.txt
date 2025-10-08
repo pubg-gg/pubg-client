@@ -1,4 +1,1 @@
-Review architecture decisions
-Check export rules
-Summarize scaling notes
-Draft HIPAA notes
+Update brand colors
