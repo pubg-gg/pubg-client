@@ -2,3 +2,4 @@ Log regression issues
 Record expense items
 Summarize dependency map
 Capture moodboard items
+Update collaboration doc
