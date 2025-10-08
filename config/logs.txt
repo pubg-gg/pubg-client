@@ -7,3 +7,4 @@ List semantic changes
 Summarize compliance checks
 Summarize bug triage
 List known limitations
+List shipping costs
