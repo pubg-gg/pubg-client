@@ -7,3 +7,4 @@ Brainstorm feature ideas
 Note lessons learned
 Record shift handovers
 Prepare status email
+Draft opportunity list
