@@ -1,2 +1,3 @@
 Update ad creatives
 Collect metrics for dashboard
+Note audit trail
