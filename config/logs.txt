@@ -7,3 +7,4 @@ Update alerting rules
 List resource needs
 Note jurisdiction issues
 Update incident timeline
+Summarize opt-out stats
