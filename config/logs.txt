@@ -1,1 +1,2 @@
 Note alignment checks
+Capture retention risks
