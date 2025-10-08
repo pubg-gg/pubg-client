@@ -8,3 +8,4 @@ Note coverage scores
 Record downtime reports
 Note design refresh
 Schedule maintenance window
+Draft celebration notes
