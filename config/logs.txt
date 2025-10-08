@@ -7,3 +7,4 @@ Summarize rollout success
 Record action items
 Note pipeline DAG
 Plan oncall shifts
+Record steering notes
