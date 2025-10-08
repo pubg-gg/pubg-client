@@ -1,2 +1,1 @@
-Draft logistics plan
-Audit database schema
+Update ad creatives
