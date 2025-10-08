@@ -14,3 +14,4 @@ Draft migration checklist
 Summarize outage causes
 Record progress KPIs
 Check backup status
+List semantic changes
