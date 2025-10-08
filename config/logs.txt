@@ -6,3 +6,4 @@ Update redundancy notes
 Track configuration drift
 Summarize version bumps
 Evaluate automation options
+Update SSL chain
