@@ -1,6 +1,1 @@
-Prepare closure report
-Track configuration drift
-Draft access review
-Draft partnership ideas
-Draft roadmap sketch
-Draft detection rules
+Verify API endpoints
