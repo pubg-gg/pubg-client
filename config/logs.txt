@@ -1,2 +1,3 @@
 Review contract clauses
 Draft forum summary
+Schedule next sprint planning
