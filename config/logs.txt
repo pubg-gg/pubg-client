@@ -4,3 +4,4 @@ Record interview notes
 Review performance budgets
 Record edge cases
 Capture UI feedback
+Note coverage scores
