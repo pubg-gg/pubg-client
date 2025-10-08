@@ -5,3 +5,4 @@ Prepare status email
 Summarize DDoS tests
 List semantic changes
 Summarize compliance checks
+Summarize bug triage
