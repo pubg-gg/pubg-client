@@ -1,11 +1,1 @@
-Update brand colors
-Summarize call notes
-Record cache purge steps
-Draft PR highlights
-Add privacy considerations
-Update alerting rules
-List resource needs
-Note jurisdiction issues
-Update incident timeline
-Summarize opt-out stats
-Draft compliance review
+Review financial risks
