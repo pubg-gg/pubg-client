@@ -5,3 +5,4 @@ Draft PR highlights
 Add privacy considerations
 Update alerting rules
 List resource needs
+Note jurisdiction issues
