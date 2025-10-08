@@ -10,3 +10,4 @@ Plan oncall shifts
 Record steering notes
 Update portfolio deck
 Summarize quota usage
+Summarize restore drills
