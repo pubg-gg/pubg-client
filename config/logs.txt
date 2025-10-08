@@ -1,5 +1,1 @@
-Plan outreach tasks
-Draft liquidity plan
-Record IDS findings
-Collect metrics for dashboard
-Expand integration tests
+Note alignment checks
