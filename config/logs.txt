@@ -20,3 +20,4 @@ Log daily progress
 List community ideas
 Draft root cause notes
 Summarize exec summary
+Draft tuning plan
