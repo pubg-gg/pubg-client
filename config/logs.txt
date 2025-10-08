@@ -1,2 +1,3 @@
 Review architecture decisions
 Check export rules
+Summarize scaling notes
