@@ -7,3 +7,4 @@ Refactor old modules
 Schedule publishing plan
 Update contact list
 Record action items
+Summarize workshop notes
