@@ -1,17 +1,1 @@
-Update status of tasks
-Note threshold breaches
-Update portfolio deck
-Record inflation impact
-Draft contest plan
-Summarize content audit
-Update swag inventory
-Plan capacity increase
-Note compliance reminders
-Draft roadmap alignment
-Record survey highlights
-Record shift handovers
-Draft migration checklist
-Summarize outage causes
-Record progress KPIs
-Check backup status
-List semantic changes
+Note currency exposure
