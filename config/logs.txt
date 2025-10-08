@@ -1,2 +1,1 @@
-Refine acceptance criteria
-Record progress KPIs
+Update proof-of-concept
