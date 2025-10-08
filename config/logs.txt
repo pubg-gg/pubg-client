@@ -30,3 +30,4 @@ Record media queries
 Note content review
 Draft sourcing notes
 Summarize outage causes
+Update pricing table
