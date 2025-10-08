@@ -1,2 +1,3 @@
 Note alignment checks
 Capture retention risks
+Record auth logs
