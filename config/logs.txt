@@ -2,3 +2,4 @@ Update session rules
 Prepare status email
 Prepare closure report
 Record prototype feedback
+Draft registrar tasks
