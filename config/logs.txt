@@ -5,3 +5,4 @@ Note trending topics
 Draft integration plan
 Summarize results
 Summarize call notes
+Record stock counts
