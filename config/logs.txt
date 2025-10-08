@@ -10,3 +10,4 @@ Note compliance reminders
 Draft roadmap alignment
 Record survey highlights
 Record shift handovers
+Draft migration checklist
