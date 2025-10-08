@@ -7,3 +7,4 @@ Summarize results
 Summarize call notes
 Record stock counts
 Note winner list
+Summarize deployment tests
