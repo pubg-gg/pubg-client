@@ -9,3 +9,4 @@ Summarize bug triage
 List known limitations
 List shipping costs
 Draft social post plan
+Update editorial calendar
