@@ -5,3 +5,4 @@ Record inflation impact
 Update dependency versions
 Refactor old modules
 Schedule publishing plan
+Update contact list
