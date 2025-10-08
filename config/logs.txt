@@ -2,3 +2,4 @@ Verify API endpoints
 Draft cloud budget
 Summarize exec summary
 Record CCPA checks
+Record gradual rollout
