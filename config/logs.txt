@@ -1,3 +1,4 @@
 Define success criteria
 Record load test data
 Note trend shifts
+Capture retention risks
