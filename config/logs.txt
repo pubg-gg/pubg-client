@@ -17,3 +17,4 @@ Update validation plan
 Update portfolio deck
 Investigate performance bottleneck
 Update alerting rules
+Review SLA metrics
