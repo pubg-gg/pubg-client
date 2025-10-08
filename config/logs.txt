@@ -15,3 +15,4 @@ Update migration scripts
 Record key metrics
 Summarize journalist list
 Draft tuning plan
+Note trending topics
