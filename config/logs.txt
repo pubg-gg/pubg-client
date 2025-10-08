@@ -2,3 +2,4 @@ Update proof-of-concept
 Schedule next sprint planning
 Prepare closure report
 Draft partnership ideas
+Update redundancy notes
