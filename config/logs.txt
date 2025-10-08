@@ -3,3 +3,4 @@ Schedule next sprint planning
 Prepare closure report
 Draft partnership ideas
 Update redundancy notes
+Track configuration drift
