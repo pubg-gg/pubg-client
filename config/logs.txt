@@ -7,3 +7,4 @@ Note delivery issues
 Update API limits
 Prepare status email
 Update privacy notice
+Record validation scores
