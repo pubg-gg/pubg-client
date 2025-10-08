@@ -6,3 +6,4 @@ Update collaboration doc
 Note delivery issues
 Update API limits
 Prepare status email
+Update privacy notice
