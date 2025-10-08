@@ -2,3 +2,4 @@ Note alignment checks
 Capture retention risks
 Record auth logs
 Record labeling guide
+Audit database schema
