@@ -13,3 +13,4 @@ Update editorial calendar
 Check dependencies for updates
 Summarize DDoS tests
 Update label templates
+Update validation plan
