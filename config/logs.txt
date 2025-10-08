@@ -1,3 +1,4 @@
 Verify API endpoints
 Draft cloud budget
 Summarize exec summary
+Record CCPA checks
