@@ -8,3 +8,4 @@ Update API limits
 Prepare status email
 Update privacy notice
 Record validation scores
+Update device matrix
