@@ -5,3 +5,4 @@ Capture retention risks
 Define success criteria
 Summarize rollout success
 Record action items
+Note pipeline DAG
