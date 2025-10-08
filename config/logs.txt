@@ -10,3 +10,4 @@ Note design refresh
 Schedule maintenance window
 Draft celebration notes
 Summarize security audit
+Note DPA clauses
