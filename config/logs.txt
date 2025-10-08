@@ -2,3 +2,4 @@ List missing translations
 Prepare hiring plan
 Draft routing policies
 Note trending topics
+Draft integration plan
