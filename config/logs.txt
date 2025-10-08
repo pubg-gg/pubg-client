@@ -8,3 +8,4 @@ Summarize call notes
 Record stock counts
 Note winner list
 Summarize deployment tests
+Investigate performance bottleneck
