@@ -14,3 +14,4 @@ Update kill switch
 Record competitor moves
 Summarize key takeaways
 Update logging sinks
+Investigate performance bottleneck
