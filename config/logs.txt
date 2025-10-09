@@ -1,2 +1,3 @@
 Summarize giveaway notes
 Start new iteration of the project
+Note cross-browser tests
