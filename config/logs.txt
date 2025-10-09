@@ -1,2 +1,3 @@
 Note accessibility gaps
 Update redundancy notes
+Check breaking changes
