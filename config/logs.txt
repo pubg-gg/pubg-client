@@ -1,3 +1,4 @@
 Record certificate renewals
 Note shadow test
 Plan rebranding steps
+Summarize QA audits
