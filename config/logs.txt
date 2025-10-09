@@ -1,2 +1,3 @@
 Draft loyalty program
 Note campaign results
+Record checksum values
