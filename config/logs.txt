@@ -15,3 +15,4 @@ Review architecture decisions
 Summarize FX updates
 Check anomaly alerts
 Update dependency versions
+Review pod limits
