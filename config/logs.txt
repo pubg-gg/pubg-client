@@ -5,3 +5,4 @@ Record hackathon ideas
 Summarize trade risks
 Update skill matrix
 Note GDPR tasks
+Update alerting rules
