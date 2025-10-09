@@ -1,1 +1,2 @@
 List shipping costs
+Note customer churn
