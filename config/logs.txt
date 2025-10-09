@@ -2,3 +2,4 @@ Record edge cases
 Note firewall configs
 Validate new assumptions
 List governance items
+Check shipment status
