@@ -11,3 +11,4 @@ Plan deployment strategy
 Capture SWOT notes
 Note content review
 Summarize giveaway notes
+Note DPA clauses
