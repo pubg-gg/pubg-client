@@ -1,1 +1,2 @@
 Record edge cases
+Note firewall configs
