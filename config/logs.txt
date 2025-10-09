@@ -1,3 +1,1 @@
-Plan rollback procedure
-Update compatibility notes
-Update cron jobs
+Summarize SIEM setup
