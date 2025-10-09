@@ -5,3 +5,4 @@ Draft feature flag list
 Summarize risks identified
 Draft contest plan
 Note decision log
+Record treasury notes
