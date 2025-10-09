@@ -5,3 +5,4 @@ Draft reproducibility plan
 Write press release draft
 Summarize AMA notes
 Draft ethics policy
+Add alternative approaches
