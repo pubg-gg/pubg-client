@@ -6,3 +6,4 @@ Review architecture decisions
 Draft mitigation guide
 Draft reproducibility plan
 Note coverage scores
+Note winner list
