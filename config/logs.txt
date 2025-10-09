@@ -19,3 +19,4 @@ Summarize contingency plan
 Summarize FX updates
 Summarize industry news
 Check anomaly alerts
+Summarize permission gaps
