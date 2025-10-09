@@ -1,2 +1,3 @@
 Refine SEO checklist
 Plan oncall shifts
+Record acceptance tests
