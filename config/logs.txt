@@ -8,3 +8,4 @@ Update legal references
 Update recognition board
 Summarize regularization notes
 Plan team retro
+Collect analytics snapshots
