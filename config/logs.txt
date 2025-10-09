@@ -1,3 +1,4 @@
 Refine SEO checklist
 Plan oncall shifts
 Record acceptance tests
+Draft onboarding steps
