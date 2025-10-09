@@ -1,3 +1,4 @@
 List known limitations
 Schedule maintenance window
 List governance items
+Update CDN rules
