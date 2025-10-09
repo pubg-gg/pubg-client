@@ -7,3 +7,4 @@ Analyze customer data
 Note deprecated functions
 Summarize anonymization steps
 Update logging sinks
+List governance items
