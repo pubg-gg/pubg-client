@@ -1,3 +1,1 @@
-Summarize key takeaways
-Update mitigation table
-Draft compliance review
+Note DPA clauses
