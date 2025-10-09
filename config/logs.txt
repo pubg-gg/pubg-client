@@ -16,3 +16,4 @@ Summarize key takeaways
 Update logging sinks
 Investigate performance bottleneck
 Draft registrar tasks
+Create new test cases
