@@ -1,3 +1,4 @@
 Record risk register
 Summarize PCI items
 Capture SWOT notes
+Summarize traffic weights
