@@ -16,3 +16,4 @@ Summarize FX updates
 Check anomaly alerts
 Update dependency versions
 Review pod limits
+Summarize CI logs
