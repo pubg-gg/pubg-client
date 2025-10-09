@@ -1,3 +1,4 @@
 Document key decisions
 Summarize audits
 Plan resource allocation
+Draft reproducibility plan
