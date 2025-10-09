@@ -3,3 +3,4 @@ Draft escalation doc
 Add alternative approaches
 Log board decisions
 Create new test cases
+Plan outreach tasks
