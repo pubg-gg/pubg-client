@@ -1,3 +1,4 @@
 Note DPA clauses
 Draft escalation doc
 Add alternative approaches
+Log board decisions
