@@ -12,3 +12,4 @@ Update skill matrix
 Summarize referral data
 Draft forum summary
 Record experiment seeds
+Note DNS changes
