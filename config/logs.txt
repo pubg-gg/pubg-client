@@ -1,1 +1,2 @@
 Refine SEO checklist
+List technical debts
