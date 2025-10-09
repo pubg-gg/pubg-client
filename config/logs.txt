@@ -2,3 +2,4 @@ Draft marketing blurb
 Summarize market trends
 Record key metrics
 Update device matrix
+Check burndown chart
