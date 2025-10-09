@@ -3,3 +3,4 @@ Review pull requests
 Log board decisions
 Update AUC results
 Summarize top requests
+Record acceptance tests
