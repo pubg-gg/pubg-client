@@ -13,3 +13,4 @@ Note content review
 Summarize giveaway notes
 Note DPA clauses
 Summarize traffic weights
+Summarize thank-you notes
