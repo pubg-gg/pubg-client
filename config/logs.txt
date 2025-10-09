@@ -15,3 +15,4 @@ Record competitor moves
 Summarize key takeaways
 Update logging sinks
 Investigate performance bottleneck
+Draft registrar tasks
