@@ -11,3 +11,4 @@ Note innovation backlog
 Recheck boundary cases
 Review code for optimization
 Update kill switch
+Record competitor moves
