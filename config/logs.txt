@@ -1,7 +1,1 @@
-Draft loyalty program
-Note campaign results
-Record checksum values
-Prepare A/B test plan
-Plan outreach tasks
-Update label templates
-Update cron jobs
+Review pod limits
