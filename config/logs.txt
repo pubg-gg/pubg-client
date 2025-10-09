@@ -2,3 +2,4 @@ Summarize testing report
 Note conference topics
 Record edge cases
 List rotation schedule
+Check breaking changes
