@@ -15,3 +15,4 @@ Summarize war room chat
 Record survey highlights
 Log daily progress
 Update rollback notes
+Draft celebration notes
