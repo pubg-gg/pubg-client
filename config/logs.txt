@@ -4,3 +4,4 @@ Update partner map
 Check customs docs
 Summarize call notes
 Collect metrics for dashboard
+Summarize hyperparam runs
