@@ -1,8 +1,1 @@
-Record risk register
-Summarize PCI items
-Capture SWOT notes
-Summarize traffic weights
-Review glossary terms
-Update changelog with details
-List missing translations
-Note overfit warning
+Review escalation paths
