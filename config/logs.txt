@@ -1,2 +1,3 @@
 Refine SEO checklist
 List technical debts
+Summarize journalist list
