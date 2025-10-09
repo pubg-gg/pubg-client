@@ -1,10 +1,1 @@
-Record volunteer names
-Analyze user feedback
-Update partner map
-Check customs docs
-Summarize call notes
-Collect metrics for dashboard
-Summarize hyperparam runs
-Log board decisions
-Record procurement steps
-Note improvement ideas
+List technical debts
