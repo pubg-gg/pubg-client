@@ -18,3 +18,4 @@ Update rollback notes
 Draft celebration notes
 Summarize giveaway notes
 Draft NDA template
+Update kill switch
