@@ -18,3 +18,4 @@ Record experiment seeds
 Summarize contingency plan
 Summarize FX updates
 Summarize industry news
+Check anomaly alerts
