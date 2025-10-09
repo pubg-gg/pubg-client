@@ -1,3 +1,4 @@
 Check dependencies for updates
 Refine backlog items
 Note compliance reminders
+Note training needs
