@@ -8,3 +8,4 @@ Recheck security notes
 Note suspicious patterns
 Review monitoring setup
 Draft marketing blurb
+Update skill matrix
