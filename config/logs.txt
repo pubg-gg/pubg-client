@@ -1,4 +1,1 @@
-Summarize giveaway notes
-List UI components
-Record hackathon ideas
-Update test matrix
+Note threshold breaches
