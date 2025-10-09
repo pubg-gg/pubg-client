@@ -1,1 +1,1 @@
-Record treasury notes
+Check dependencies for updates
