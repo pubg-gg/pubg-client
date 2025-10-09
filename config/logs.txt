@@ -4,3 +4,4 @@ Record risk register
 Check ISO documents
 Evaluate third-party libs
 Analyze customer data
+Note deprecated functions
