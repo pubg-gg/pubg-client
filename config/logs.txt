@@ -13,3 +13,4 @@ Record inflation impact
 Summarize workshop notes
 Review architecture decisions
 Summarize FX updates
+Check anomaly alerts
