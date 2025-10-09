@@ -4,3 +4,4 @@ Summarize market trends
 Update privacy notice
 Record IDS findings
 Draft policy updates
+Summarize last meeting notes
