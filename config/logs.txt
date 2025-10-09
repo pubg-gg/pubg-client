@@ -1,8 +1,1 @@
-Refine SEO checklist
-List technical debts
-Summarize journalist list
-Check benchmark scores
-Check anomaly alerts
-Draft policy updates
-Note suspicious patterns
-Summarize AMA notes
+Plan capacity increase
