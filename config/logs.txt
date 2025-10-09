@@ -5,3 +5,4 @@ Summarize feedback loops
 Update portfolio deck
 Plan oncall shifts
 Update dependency versions
+Update alerting rules
