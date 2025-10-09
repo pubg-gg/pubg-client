@@ -7,3 +7,4 @@ Draft contest plan
 Note decision log
 Record treasury notes
 Note threshold breaches
+Plan deployment strategy
