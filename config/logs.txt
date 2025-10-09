@@ -14,3 +14,4 @@ List domain records
 Summarize war room chat
 Record survey highlights
 Log daily progress
+Update rollback notes
