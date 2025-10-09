@@ -10,3 +10,4 @@ Note reorder points
 Add alternative approaches
 Note DPA clauses
 Record event calendar
+List domain records
