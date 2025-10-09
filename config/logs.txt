@@ -27,3 +27,4 @@ Review glossary terms
 Note design refresh
 Plan team retro
 Note DNS changes
+Record license info
