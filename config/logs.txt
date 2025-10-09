@@ -2,3 +2,4 @@ Refine SEO checklist
 List technical debts
 Summarize journalist list
 Check benchmark scores
+Check anomaly alerts
