@@ -31,3 +31,4 @@ Record license info
 Summarize ROC data
 Record experiment seeds
 Summarize contract renewals
+Record competitor moves
