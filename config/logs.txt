@@ -6,3 +6,4 @@ Record hackathon ideas
 Update pricing table
 Draft packaging guide
 Add unit test coverage
+Update changelog with details
