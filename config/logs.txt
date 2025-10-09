@@ -5,3 +5,4 @@ Summarize traffic weights
 Review glossary terms
 Update changelog with details
 List missing translations
+Note overfit warning
