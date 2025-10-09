@@ -7,3 +7,4 @@ Summarize KPIs
 Update legal references
 Update recognition board
 Summarize regularization notes
+Plan team retro
