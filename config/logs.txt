@@ -23,3 +23,4 @@ Summarize permission gaps
 Add privacy considerations
 Update mitigation table
 Draft tuning plan
+Review glossary terms
