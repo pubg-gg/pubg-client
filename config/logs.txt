@@ -1,2 +1,3 @@
 Record certificate renewals
 Note shadow test
+Plan rebranding steps
