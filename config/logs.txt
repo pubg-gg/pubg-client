@@ -9,3 +9,4 @@ Record treasury notes
 Note threshold breaches
 Plan deployment strategy
 Capture SWOT notes
+Note content review
