@@ -3,3 +3,4 @@ Start new iteration of the project
 Note cross-browser tests
 Refine acceptance criteria
 Review architecture decisions
+Draft mitigation guide
