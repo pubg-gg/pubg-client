@@ -2,3 +2,4 @@ Record volunteer names
 Analyze user feedback
 Update partner map
 Check customs docs
+Summarize call notes
