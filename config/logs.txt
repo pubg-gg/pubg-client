@@ -7,3 +7,4 @@ Update board minutes
 List pending approvals
 Update poll results
 Plan deployment strategy
+Track timeline adjustments
