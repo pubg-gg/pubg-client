@@ -4,3 +4,4 @@ Plan rebranding steps
 Summarize QA audits
 Record hackathon ideas
 Update pricing table
+Draft packaging guide
