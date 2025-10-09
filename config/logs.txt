@@ -16,3 +16,4 @@ Record survey highlights
 Log daily progress
 Update rollback notes
 Draft celebration notes
+Summarize giveaway notes
