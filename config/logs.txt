@@ -1,9 +1,1 @@
-Summarize testing report
-Note conference topics
-Record edge cases
-List rotation schedule
-Check breaking changes
-Record key rotation plan
-Plan career paths
-Note dataset sources
-Record load test data
+Refine SEO checklist
