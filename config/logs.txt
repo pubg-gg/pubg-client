@@ -21,3 +21,4 @@ Summarize industry news
 Check anomaly alerts
 Summarize permission gaps
 Add privacy considerations
+Update mitigation table
