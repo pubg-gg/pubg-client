@@ -3,3 +3,4 @@ Note campaign results
 Record checksum values
 Prepare A/B test plan
 Plan outreach tasks
+Update label templates
