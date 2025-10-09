@@ -7,3 +7,4 @@ Record acceptance tests
 Recheck security notes
 Note suspicious patterns
 Review monitoring setup
+Draft marketing blurb
