@@ -1,18 +1,1 @@
-Review escalation paths
-Review pull requests
-Log board decisions
-Update AUC results
-Summarize top requests
-Record acceptance tests
-Recheck security notes
-Note suspicious patterns
-Review monitoring setup
-Draft marketing blurb
-Update skill matrix
-Summarize referral data
-Draft forum summary
-Record experiment seeds
-Note DNS changes
-Review financial risks
-Note innovation backlog
-List cluster configs
+Update proof-of-concept
