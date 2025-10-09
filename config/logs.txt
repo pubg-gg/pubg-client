@@ -3,3 +3,4 @@ Check export rules
 Update cross-team docs
 Check shipment status
 Record sign-off notes
+Note audit trail
