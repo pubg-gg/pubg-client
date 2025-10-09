@@ -1,1 +1,2 @@
 Check monitoring alerts
+Record CCPA checks
