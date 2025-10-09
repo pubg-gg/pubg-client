@@ -5,3 +5,4 @@ Summarize QA audits
 Record hackathon ideas
 Update pricing table
 Draft packaging guide
+Add unit test coverage
