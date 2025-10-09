@@ -1,2 +1,1 @@
-List technical debts
-Record downtime reports
+Note escalation matrix
