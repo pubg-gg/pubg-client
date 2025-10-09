@@ -2,3 +2,4 @@ Update proof-of-concept
 Review SLA metrics
 Record risk register
 Check ISO documents
+Evaluate third-party libs
