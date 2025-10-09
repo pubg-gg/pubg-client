@@ -6,3 +6,4 @@ Evaluate third-party libs
 Analyze customer data
 Note deprecated functions
 Summarize anonymization steps
+Update logging sinks
