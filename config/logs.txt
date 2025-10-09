@@ -4,3 +4,4 @@ Note sprint outcome
 Record hackathon ideas
 Summarize trade risks
 Update skill matrix
+Note GDPR tasks
