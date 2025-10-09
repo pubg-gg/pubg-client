@@ -10,3 +10,4 @@ Summarize regularization notes
 Plan team retro
 Collect analytics snapshots
 Record inflation impact
+Summarize workshop notes
