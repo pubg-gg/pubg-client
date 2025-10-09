@@ -1,2 +1,3 @@
 Audit project structure
 Summarize funnel metrics
+Summarize market trends
