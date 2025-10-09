@@ -24,3 +24,4 @@ Add privacy considerations
 Update mitigation table
 Draft tuning plan
 Review glossary terms
+Note design refresh
