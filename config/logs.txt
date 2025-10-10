@@ -1,1 +1,1 @@
-Update style guide
+Check dependencies for updates
