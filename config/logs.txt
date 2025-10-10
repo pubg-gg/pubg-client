@@ -19,3 +19,4 @@ List booth designs
 Review monitoring setup
 Note deprecated functions
 Summarize candidate profiles
+Draft UX improvements
