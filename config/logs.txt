@@ -1,2 +1,3 @@
 Draft release checklist
 Draft staging plan
+Record benchmark outcomes
