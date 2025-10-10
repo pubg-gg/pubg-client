@@ -4,3 +4,4 @@ Note investment options
 Note threshold breaches
 Summarize testing report
 Check dependencies for updates
+Update poll results
