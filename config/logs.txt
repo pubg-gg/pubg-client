@@ -3,3 +3,4 @@ Draft sourcing notes
 Draft tuning plan
 Record prize details
 Summarize adoption metrics
+Record infra costs
