@@ -1,2 +1,1 @@
-Summarize industry news
-Note design refresh
+Refactor helper functions
