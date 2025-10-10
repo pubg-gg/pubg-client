@@ -3,3 +3,4 @@ Draft UX improvements
 Log mitigation steps
 Update editorial calendar
 Record expense items
+Draft optimization notes
