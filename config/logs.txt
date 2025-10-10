@@ -5,3 +5,4 @@ Note cross-browser tests
 Summarize warehouse logs
 Plan oncall shifts
 Record action items
+Draft registrar tasks
