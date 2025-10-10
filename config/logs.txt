@@ -1,2 +1,3 @@
 Summarize industry news
 Draft detection rules
+Update editorial calendar
