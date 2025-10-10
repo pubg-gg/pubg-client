@@ -10,3 +10,4 @@ List booth designs
 Plan PR campaign
 List missing translations
 List missing coverage
+Record validation scores
