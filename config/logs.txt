@@ -3,3 +3,4 @@ Update AUC results
 Note registry updates
 Update device matrix
 Summarize testing report
+Note deprecation warnings
