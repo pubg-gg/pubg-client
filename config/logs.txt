@@ -23,3 +23,4 @@ Summarize dependency map
 Draft PR highlights
 Plan oncall shifts
 Record action items
+Summarize exec summary
