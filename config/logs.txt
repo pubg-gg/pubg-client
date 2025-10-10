@@ -14,3 +14,4 @@ Summarize rollout success
 Investigate performance bottleneck
 Draft onboarding steps
 Audit project structure
+Draft style samples
