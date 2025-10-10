@@ -3,3 +3,4 @@ Update partner map
 Sketch new interface ideas
 Record inflation impact
 Note winner list
+Draft error codes
