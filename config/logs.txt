@@ -2,3 +2,4 @@ Collect metrics for dashboard
 Update partner map
 Sketch new interface ideas
 Record inflation impact
+Note winner list
