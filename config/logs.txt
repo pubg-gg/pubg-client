@@ -1,4 +1,1 @@
-Update glossary
-Note winner list
-Update CDN rules
-Draft sales strategy
+Note deprecation warnings
