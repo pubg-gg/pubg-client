@@ -8,3 +8,4 @@ Record action items
 Draft registrar tasks
 Audit project structure
 Summarize regularization notes
+Draft NDA template
