@@ -18,3 +18,4 @@ Draft style samples
 List booth designs
 Review monitoring setup
 Note deprecated functions
+Summarize candidate profiles
