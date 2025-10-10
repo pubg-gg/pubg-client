@@ -8,3 +8,4 @@ Record edge cases
 List influencer mentions
 Track timeline adjustments
 Update redundancy notes
+Draft training slides
