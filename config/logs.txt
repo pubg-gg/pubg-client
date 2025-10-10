@@ -3,3 +3,4 @@ Improve modularity
 Update backup policy
 Review caching strategy
 Fix minor issues in workflow
+Record media queries
