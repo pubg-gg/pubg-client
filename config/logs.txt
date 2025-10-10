@@ -12,3 +12,4 @@ List missing translations
 Record underfit case
 Summarize brand sentiment
 Draft roadmap alignment
+Note lessons learned
