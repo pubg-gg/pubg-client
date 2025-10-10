@@ -3,3 +3,4 @@ Draft detection rules
 Update editorial calendar
 Record blue-green notes
 Review escalation paths
+Draft recovery notes
