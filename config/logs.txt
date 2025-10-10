@@ -1,15 +1,1 @@
-Note threshold breaches
-Capture article topics
-Note deprecation warnings
-List known limitations
-Summarize results
-Record survey highlights
-Check breaking changes
-Record CCPA checks
-Update glossary
-Plan data migration
-Plan career paths
-Review escalation paths
-Draft access review
-Summarize last meeting notes
-Note alignment checks
+Summarize deployment logs
