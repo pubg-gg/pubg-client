@@ -12,3 +12,4 @@ Plan career paths
 Review escalation paths
 Draft access review
 Summarize last meeting notes
+Note alignment checks
