@@ -1,5 +1,1 @@
-Note toggle plan
-Summarize opt-out stats
-Simplify configuration
-Note decision log
-Update incident timeline
+Update mitigation table
