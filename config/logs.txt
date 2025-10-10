@@ -3,3 +3,4 @@ Summarize last meeting notes
 Check build artifacts
 Note encryption methods
 Prepare presentation slides
+Update cross-team docs
