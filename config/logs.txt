@@ -4,3 +4,4 @@ Update hedging plan
 Update device matrix
 Check benchmark scores
 Check clickthrough rate
+Write outcome summary
