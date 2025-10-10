@@ -23,3 +23,4 @@ Draft UX improvements
 Check error handling
 Audit project structure
 Record experiment seeds
+Update label templates
