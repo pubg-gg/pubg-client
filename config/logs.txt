@@ -19,3 +19,4 @@ List action follow-ups
 Summarize responsive fixes
 Update hedging plan
 Capture UI feedback
+Summarize dependency map
