@@ -12,3 +12,4 @@ Summarize responsive fixes
 Update mentoring plan
 Note GDPR tasks
 Note improvement ideas
+Update mitigation table
