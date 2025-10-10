@@ -10,3 +10,4 @@ Summarize ROC data
 Review escalation paths
 Summarize responsive fixes
 Update mentoring plan
+Note GDPR tasks
