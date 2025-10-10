@@ -10,3 +10,4 @@ Track timeline adjustments
 Update redundancy notes
 Draft training slides
 List resource needs
+Note shadow test
