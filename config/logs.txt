@@ -24,3 +24,4 @@ Check error handling
 Audit project structure
 Record experiment seeds
 Update label templates
+Record validation scores
