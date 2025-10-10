@@ -7,3 +7,4 @@ Record survey highlights
 Check breaking changes
 Record CCPA checks
 Update glossary
+Plan data migration
