@@ -1,10 +1,1 @@
-Collect metrics for dashboard
-Update partner map
-Sketch new interface ideas
-Record inflation impact
-Note winner list
-Draft error codes
-Summarize compliance checks
-Summarize permission gaps
-Check burndown chart
-Check customs docs
+Update style guide
