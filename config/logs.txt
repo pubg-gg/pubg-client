@@ -5,3 +5,4 @@ List known limitations
 Summarize results
 Record survey highlights
 Check breaking changes
+Record CCPA checks
