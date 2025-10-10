@@ -1,2 +1,1 @@
-Plan deployment strategy
-Record feature votes
+Refine backlog items
