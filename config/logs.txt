@@ -4,3 +4,4 @@ Log mitigation steps
 Update editorial calendar
 Record expense items
 Draft optimization notes
+Draft resilience test
