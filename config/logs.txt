@@ -5,3 +5,4 @@ Review caching strategy
 Fix minor issues in workflow
 Record media queries
 Draft compliance review
+Note reorder points
