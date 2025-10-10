@@ -2,3 +2,4 @@ Draft training slides
 Draft failover plan
 Note investment options
 Note threshold breaches
+Summarize testing report
