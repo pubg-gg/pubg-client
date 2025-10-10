@@ -14,3 +14,4 @@ Note GDPR tasks
 Note improvement ideas
 Update mitigation table
 Record infra costs
+Update ad creatives
