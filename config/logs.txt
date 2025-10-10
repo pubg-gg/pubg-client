@@ -1,2 +1,3 @@
 Update glossary
 Note winner list
+Update CDN rules
