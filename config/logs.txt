@@ -2,3 +2,4 @@ List booth designs
 Note recall issues
 Update hedging plan
 Update device matrix
+Check benchmark scores
