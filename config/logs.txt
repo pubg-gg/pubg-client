@@ -16,3 +16,4 @@ Update mitigation table
 Record infra costs
 Update ad creatives
 List action follow-ups
+Summarize responsive fixes
