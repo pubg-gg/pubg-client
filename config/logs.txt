@@ -21,3 +21,4 @@ Note deprecated functions
 Summarize candidate profiles
 Draft UX improvements
 Check error handling
+Audit project structure
