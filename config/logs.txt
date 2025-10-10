@@ -1,2 +1,3 @@
 Record key rotation plan
 Update AUC results
+Note registry updates
