@@ -1,3 +1,4 @@
 Summarize QA audits
 Improve modularity
 Update backup policy
+Review caching strategy
