@@ -28,3 +28,4 @@ Record validation scores
 Record OKR sync
 Update AB split logs
 Update mentoring plan
+Record expense items
