@@ -3,3 +3,4 @@ Note recall issues
 Update hedging plan
 Update device matrix
 Check benchmark scores
+Check clickthrough rate
