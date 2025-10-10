@@ -1,3 +1,4 @@
 Summarize industry news
 Draft detection rules
 Update editorial calendar
+Record blue-green notes
