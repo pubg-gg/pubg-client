@@ -10,3 +10,4 @@ Update contact list
 Record license info
 List missing translations
 Record underfit case
+Summarize brand sentiment
