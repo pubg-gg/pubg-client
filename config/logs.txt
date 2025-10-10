@@ -1,2 +1,3 @@
 Note toggle plan
 Summarize opt-out stats
+Simplify configuration
