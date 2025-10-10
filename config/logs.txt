@@ -5,3 +5,4 @@ Plan oncall shifts
 Record conversion data
 Update outreach contacts
 Draft social post plan
+Summarize risks identified
