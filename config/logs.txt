@@ -1,15 +1,1 @@
-Summarize QA audits
-Improve modularity
-Update backup policy
-Review caching strategy
-Fix minor issues in workflow
-Record media queries
-Draft compliance review
-Note reorder points
-Update contact list
-Record license info
-List missing translations
-Record underfit case
-Summarize brand sentiment
-Draft roadmap alignment
-Note lessons learned
+Summarize industry news
