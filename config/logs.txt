@@ -5,3 +5,4 @@ Update confusion matrix
 Plan oncall shifts
 Draft recovery notes
 Update contact list
+Draft onboarding checklist
