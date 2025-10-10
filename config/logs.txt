@@ -8,3 +8,4 @@ Draft compliance review
 Note reorder points
 Update contact list
 Record license info
+List missing translations
