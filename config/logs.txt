@@ -1,5 +1,1 @@
-Note provider options
-Update migration scripts
-Draft partnership ideas
-Review pull requests
-Record F1 score
+Summarize industry news
