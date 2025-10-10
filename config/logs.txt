@@ -2,3 +2,4 @@ Update alerting rules
 Update portfolio deck
 Refine acceptance criteria
 Note cross-browser tests
+Summarize warehouse logs
