@@ -1,2 +1,3 @@
 Summarize industry news
 Note shadow test
+Update hedging plan
