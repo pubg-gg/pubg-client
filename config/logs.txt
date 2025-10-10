@@ -9,3 +9,4 @@ Record CCPA checks
 Update glossary
 Plan data migration
 Plan career paths
+Review escalation paths
