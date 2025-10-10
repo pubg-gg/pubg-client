@@ -5,3 +5,4 @@ Record inflation impact
 Note winner list
 Draft error codes
 Summarize compliance checks
+Summarize permission gaps
