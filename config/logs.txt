@@ -16,3 +16,4 @@ Draft onboarding steps
 Audit project structure
 Draft style samples
 List booth designs
+Review monitoring setup
