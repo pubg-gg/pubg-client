@@ -1,2 +1,3 @@
 Update alerting rules
 Update portfolio deck
+Refine acceptance criteria
