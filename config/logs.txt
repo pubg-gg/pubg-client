@@ -30,3 +30,4 @@ Update AB split logs
 Update mentoring plan
 Record expense items
 Note identity checks
+Capture retention risks
