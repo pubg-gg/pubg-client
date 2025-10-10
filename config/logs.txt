@@ -1,17 +1,1 @@
-Summarize industry news
-Note shadow test
-Update hedging plan
-Update confusion matrix
-Plan oncall shifts
-Draft recovery notes
-Update contact list
-Draft onboarding checklist
-List booth designs
-Plan PR campaign
-List missing translations
-List missing coverage
-Record validation scores
-Review cost savings
-Update dispute outcomes
-Write summary report
-Sketch new interface ideas
+Collect metrics for dashboard
