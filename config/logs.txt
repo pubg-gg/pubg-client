@@ -8,3 +8,4 @@ Update contact list
 Draft onboarding checklist
 List booth designs
 Plan PR campaign
+List missing translations
