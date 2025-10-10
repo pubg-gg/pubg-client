@@ -1,12 +1,1 @@
-Update alerting rules
-Update portfolio deck
-Refine acceptance criteria
-Note cross-browser tests
-Summarize warehouse logs
-Plan oncall shifts
-Record action items
-Draft registrar tasks
-Audit project structure
-Summarize regularization notes
-Draft NDA template
-Note threshold breaches
+List legal holds
