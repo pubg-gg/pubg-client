@@ -21,3 +21,4 @@ Update hedging plan
 Capture UI feedback
 Summarize dependency map
 Draft PR highlights
+Plan oncall shifts
