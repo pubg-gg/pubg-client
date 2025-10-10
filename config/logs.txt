@@ -1,10 +1,1 @@
-Summarize industry news
-Draft detection rules
-Update editorial calendar
-Record blue-green notes
-Review escalation paths
-Draft recovery notes
-Update status of tasks
-Review lessons learned
-Log post-launch issues
-Record certificate renewals
+Record key rotation plan
