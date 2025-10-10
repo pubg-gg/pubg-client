@@ -1,3 +1,4 @@
 List technical debts
 Track library updates
 Refine acceptance criteria
+Note reorder points
