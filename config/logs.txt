@@ -1,4 +1,1 @@
-Draft root cause notes
-Draft routing policies
-Record certification status
-Update redundancy notes
+List technical debts
