@@ -1,3 +1,4 @@
 Record edge cases
 Summarize last meeting notes
 Check build artifacts
+Note encryption methods
