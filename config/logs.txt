@@ -10,3 +10,4 @@ Update style guide
 Plan deployment strategy
 Record prize details
 Record expense items
+Update legal references
