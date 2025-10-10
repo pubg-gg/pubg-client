@@ -1,6 +1,1 @@
-Summarize key takeaways
-Draft sourcing notes
-Draft tuning plan
-Record prize details
-Summarize adoption metrics
-Record infra costs
+Note toggle plan
