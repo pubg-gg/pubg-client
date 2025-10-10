@@ -1,2 +1,1 @@
-Note deprecation warnings
-Draft detection rules
+Note campaign results
