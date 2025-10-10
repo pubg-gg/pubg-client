@@ -6,3 +6,4 @@ Record expense items
 Draft optimization notes
 Draft resilience test
 Check expiry dates
+Update style guide
