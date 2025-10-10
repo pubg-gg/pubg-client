@@ -7,3 +7,4 @@ Draft recovery notes
 Update status of tasks
 Review lessons learned
 Log post-launch issues
+Record certificate renewals
