@@ -6,3 +6,4 @@ Summarize warehouse logs
 Plan oncall shifts
 Record action items
 Draft registrar tasks
+Audit project structure
