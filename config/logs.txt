@@ -1,3 +1,4 @@
 Note toggle plan
 Update pager duty notes
 Draft weekly digest
+Plan oncall shifts
