@@ -3,3 +3,4 @@ Capture article topics
 Note deprecation warnings
 List known limitations
 Summarize results
+Record survey highlights
