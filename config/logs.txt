@@ -1,5 +1,1 @@
-Summarize permission gaps
-Record F1 score
-Record conversion data
-Summarize version bumps
-Check burndown chart
+Plan deployment strategy
