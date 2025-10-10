@@ -6,3 +6,4 @@ Summarize results
 Record survey highlights
 Check breaking changes
 Record CCPA checks
+Update glossary
