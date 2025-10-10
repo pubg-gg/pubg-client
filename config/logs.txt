@@ -1,2 +1,3 @@
 Collect metrics for dashboard
 Update partner map
+Sketch new interface ideas
