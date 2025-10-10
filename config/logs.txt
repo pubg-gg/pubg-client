@@ -1,3 +1,1 @@
-Review monitoring setup
-Update recognition board
-Record interview notes
+Summarize permission gaps
