@@ -1,9 +1,1 @@
-Draft optimization notes
 Record validation scores
-Summarize velocity trend
-Draft routing policies
-Update dependency versions
-Simplify configuration
-Summarize deployment tests
-Note winner list
-Summarize ROC data
