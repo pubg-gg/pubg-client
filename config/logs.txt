@@ -1,13 +1,1 @@
-Update partner map
-Summarize product goals
-Summarize restore drills
-Draft HIPAA notes
-Note DPA clauses
-Record steering notes
-Summarize adoption metrics
-Record downtime reports
-Add alternative approaches
-Update supply data
-Analyze customer data
-Review billing items
-Summarize testing report
+Update alerting rules
