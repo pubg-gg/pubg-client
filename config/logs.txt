@@ -1,2 +1,1 @@
-Check localization files
-Draft documentation outline
+Update validation plan
