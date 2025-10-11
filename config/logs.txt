@@ -5,3 +5,4 @@ Capture moodboard items
 Record CI/CD pipeline
 Record certificate renewals
 Summarize workshop notes
+Document key decisions
