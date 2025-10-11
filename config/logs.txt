@@ -5,3 +5,4 @@ Record user stories
 List shipping costs
 Investigate performance bottleneck
 Draft opportunity list
+Review escalation paths
