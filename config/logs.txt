@@ -1,3 +1,4 @@
 Record certification status
 Update hedging plan
 Note winner list
+Record edge cases
