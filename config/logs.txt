@@ -7,3 +7,4 @@ Plan rebranding steps
 Note encryption methods
 Draft ethics policy
 Update diagrams
+Record infra costs
