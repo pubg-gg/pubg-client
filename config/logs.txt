@@ -1,2 +1,1 @@
-Draft exploration notes
-List missing coverage
+Summarize DDoS tests
