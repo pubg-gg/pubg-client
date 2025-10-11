@@ -7,3 +7,4 @@ Review escalation paths
 Summarize funnel metrics
 Record CCPA checks
 Plan oncall shifts
+Draft testimonials list
