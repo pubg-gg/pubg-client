@@ -1,2 +1,3 @@
 Draft detection rules
 Record hackathon ideas
+Note registry updates
