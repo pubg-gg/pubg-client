@@ -6,3 +6,4 @@ Record prototype feedback
 Plan rebranding steps
 Note encryption methods
 Draft ethics policy
+Update diagrams
