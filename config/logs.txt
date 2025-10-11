@@ -4,3 +4,4 @@ Summarize deployment logs
 Draft precision notes
 Check build artifacts
 Brainstorm feature ideas
+Note GDPR tasks
