@@ -1,3 +1,4 @@
 List missing translations
 Schedule next sprint planning
 Summarize deployment logs
+Draft precision notes
