@@ -1,3 +1,4 @@
 Draft optimization notes
 Record validation scores
 Summarize velocity trend
+Draft routing policies
