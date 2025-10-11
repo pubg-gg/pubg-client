@@ -1,10 +1,1 @@
-Update rollback notes
-Note deprecation warnings
-Prepare A/B test plan
-Update test matrix
-Update deletion logs
-List community ideas
-Draft reproducibility plan
-Summarize litigation notes
 List missing translations
-Draft cloud budget
