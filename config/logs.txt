@@ -6,3 +6,4 @@ Update redundancy notes
 Review escalation paths
 Summarize funnel metrics
 Record CCPA checks
+Plan oncall shifts
