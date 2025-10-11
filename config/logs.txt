@@ -8,3 +8,4 @@ Summarize workshop notes
 Document key decisions
 Note alignment checks
 Check API gateway
+Record CCPA checks
