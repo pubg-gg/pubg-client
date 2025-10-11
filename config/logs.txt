@@ -1,7 +1,1 @@
-List missing translations
-Schedule next sprint planning
-Summarize deployment logs
-Draft precision notes
-Check build artifacts
-Brainstorm feature ideas
-Note GDPR tasks
+Draft exploration notes
