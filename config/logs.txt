@@ -8,3 +8,4 @@ Note encryption methods
 Draft ethics policy
 Update diagrams
 Record infra costs
+Update status of tasks
