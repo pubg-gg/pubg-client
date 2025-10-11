@@ -7,3 +7,4 @@ List community ideas
 Draft reproducibility plan
 Summarize litigation notes
 List missing translations
+Draft cloud budget
