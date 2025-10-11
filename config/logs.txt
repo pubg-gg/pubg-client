@@ -4,3 +4,4 @@ Summarize restore drills
 Draft HIPAA notes
 Note DPA clauses
 Record steering notes
+Summarize adoption metrics
