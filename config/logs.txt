@@ -1,9 +1,1 @@
-Update alerting rules
-Polish UI interactions
-Summarize industry news
-List community ideas
-Record progress KPIs
-Write press release draft
-Record prize details
-Add unit test coverage
-Draft mitigation guide
+Draft feature flag list
