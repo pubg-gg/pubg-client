@@ -4,3 +4,4 @@ Prepare A/B test plan
 List missing coverage
 Update redundancy notes
 Review escalation paths
+Summarize funnel metrics
