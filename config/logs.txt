@@ -5,3 +5,4 @@ Draft routing policies
 Update dependency versions
 Simplify configuration
 Summarize deployment tests
+Note winner list
