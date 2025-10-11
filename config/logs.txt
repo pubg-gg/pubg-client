@@ -11,3 +11,4 @@ Record infra costs
 Update status of tasks
 Record labeling guide
 Update rollback notes
+Note trend shifts
