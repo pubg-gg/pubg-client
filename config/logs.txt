@@ -2,3 +2,4 @@ Log board decisions
 Draft compliance review
 Record arbitration steps
 Summarize AMA notes
+Note pass/fail ratio
