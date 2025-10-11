@@ -6,3 +6,4 @@ Note escalation matrix
 Create new test cases
 Refactor helper functions
 Verify API endpoints
+Record checksum values
