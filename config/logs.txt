@@ -9,3 +9,4 @@ Draft ethics policy
 Update diagrams
 Record infra costs
 Update status of tasks
+Record labeling guide
