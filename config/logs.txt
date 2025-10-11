@@ -6,3 +6,4 @@ Note DPA clauses
 Record steering notes
 Summarize adoption metrics
 Record downtime reports
+Add alternative approaches
