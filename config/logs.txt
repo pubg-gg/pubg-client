@@ -6,3 +6,4 @@ Update deletion logs
 List community ideas
 Draft reproducibility plan
 Summarize litigation notes
+List missing translations
