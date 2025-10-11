@@ -4,3 +4,4 @@ Summarize velocity trend
 Draft routing policies
 Update dependency versions
 Simplify configuration
+Summarize deployment tests
