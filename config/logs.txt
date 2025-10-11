@@ -2,3 +2,4 @@ Update alerting rules
 Polish UI interactions
 Summarize industry news
 List community ideas
+Record progress KPIs
