@@ -5,3 +5,4 @@ Record edge cases
 Note escalation matrix
 Create new test cases
 Refactor helper functions
+Verify API endpoints
