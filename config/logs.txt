@@ -2,3 +2,4 @@ Record validation scores
 Plan website refresh
 Draft PR highlights
 Record user stories
+List shipping costs
