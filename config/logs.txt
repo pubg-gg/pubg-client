@@ -4,3 +4,4 @@ Summarize industry news
 List community ideas
 Record progress KPIs
 Write press release draft
+Record prize details
