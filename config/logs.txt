@@ -7,3 +7,4 @@ Record certificate renewals
 Summarize workshop notes
 Document key decisions
 Note alignment checks
+Check API gateway
