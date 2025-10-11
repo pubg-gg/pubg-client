@@ -1,14 +1,1 @@
-Draft feature flag list
-Review lessons learned
-Record competitor moves
-Summarize rollout success
-Record prototype feedback
-Plan rebranding steps
-Note encryption methods
-Draft ethics policy
-Update diagrams
-Record infra costs
-Update status of tasks
-Record labeling guide
-Update rollback notes
-Note trend shifts
+List cluster configs
