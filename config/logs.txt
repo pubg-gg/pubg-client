@@ -11,3 +11,4 @@ Log post-launch issues
 Plan lead generation
 Summarize uptime data
 Record F1 score
+Check breaking changes
