@@ -1,2 +1,1 @@
-Track configuration drift
-Record import duties
+Check localization files
