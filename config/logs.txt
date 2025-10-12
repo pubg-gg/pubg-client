@@ -5,3 +5,4 @@ Draft reproducibility plan
 List resource needs
 Draft reproducibility plan
 Review architecture decisions
+Prepare presentation slides
