@@ -1,9 +1,1 @@
-Record F1 score
-Track timeline adjustments
-List pending approvals
-Note trending topics
-Update hedging plan
-Add fallback options
-Update SOC reports
-Record procurement steps
-Record F1 score
+List OKRs
