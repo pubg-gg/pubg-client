@@ -1,4 +1,1 @@
-Note DPA clauses
-Research best practices
-Note cross-browser tests
-Draft contest plan
+Summarize last meeting notes
