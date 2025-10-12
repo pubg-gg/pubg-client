@@ -8,3 +8,4 @@ Summarize zone updates
 Update pricing table
 Summarize workshop notes
 Review lessons learned
+Draft SSO integration
