@@ -5,3 +5,4 @@ Note cross-browser tests
 Update poll results
 Draft escalation doc
 Update deletion logs
+Summarize version bumps
