@@ -1,1 +1,1 @@
-Update compatibility notes
+Add more documentation notes
