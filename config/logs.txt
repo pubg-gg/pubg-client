@@ -2,3 +2,4 @@ Track library updates
 Note GDPR tasks
 Draft packaging guide
 Draft feature proposal
+Summarize deployment tests
