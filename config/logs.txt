@@ -1,3 +1,4 @@
 Note suspicious patterns
 Adjust retry logic
 Draft optimization notes
+Draft registrar tasks
