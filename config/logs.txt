@@ -3,3 +3,4 @@ Create new test cases
 Draft migration checklist
 Define success criteria
 Update portfolio deck
+Summarize thank-you notes
