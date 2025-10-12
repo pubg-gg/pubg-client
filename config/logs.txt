@@ -8,3 +8,4 @@ Plan cashflow forecast
 List governance items
 Draft roadmap alignment
 Draft leadership notes
+Summarize exec summary
