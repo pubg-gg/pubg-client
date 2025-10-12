@@ -1,3 +1,4 @@
 Adjust retry logic
 Summarize compliance checks
 Summarize security audit
+Note cross-browser tests
