@@ -5,3 +5,4 @@ Draft SSO integration
 Update legal references
 Summarize validation data
 Summarize zone updates
+Update pricing table
