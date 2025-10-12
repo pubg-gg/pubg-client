@@ -1,9 +1,1 @@
-Record event calendar
-Summarize rollout success
-Record NPS score
-Draft reproducibility plan
-List resource needs
-Draft reproducibility plan
-Review architecture decisions
-Prepare presentation slides
-Note improvement ideas
+Log board decisions
