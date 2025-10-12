@@ -10,3 +10,4 @@ Update hedging plan
 Summarize industry news
 Update redundancy notes
 Record CSS tweaks
+Review escalation paths
