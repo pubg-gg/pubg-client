@@ -4,3 +4,4 @@ Update partner map
 List rotation schedule
 Update incident timeline
 Record validation scores
+Check clickthrough rate
