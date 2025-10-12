@@ -6,3 +6,4 @@ Summarize launch steps
 Update API limits
 Refine SEO checklist
 Capture SWOT notes
+Note trending topics
