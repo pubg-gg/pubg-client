@@ -11,3 +11,4 @@ Summarize industry news
 Update redundancy notes
 Record CSS tweaks
 Review escalation paths
+Capture article topics
