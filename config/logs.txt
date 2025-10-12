@@ -6,3 +6,4 @@ Draft retro notes
 Record shift handovers
 Update changelog with details
 Plan cashflow forecast
+Summarize security audit
