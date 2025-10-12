@@ -1,1 +1,1 @@
-Note DPA clauses
+Note suspicious patterns
