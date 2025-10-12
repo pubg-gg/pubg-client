@@ -1,2 +1,3 @@
 Summarize last meeting notes
 Schedule next sprint planning
+Brainstorm feature ideas
