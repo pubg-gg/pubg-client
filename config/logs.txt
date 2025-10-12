@@ -1,10 +1,1 @@
-Adjust retry logic
-Summarize compliance checks
-Summarize security audit
-Note cross-browser tests
-Update poll results
-Draft escalation doc
-Update deletion logs
-Summarize version bumps
-Summarize DDoS tests
-Summarize deployment tests
+Note currency exposure
