@@ -3,3 +3,4 @@ Write installation notes
 Draft emergency contacts
 Summarize uptime data
 Draft retro notes
+Record shift handovers
