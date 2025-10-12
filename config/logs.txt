@@ -2,3 +2,4 @@ Record event calendar
 Summarize rollout success
 Record NPS score
 Draft reproducibility plan
+List resource needs
