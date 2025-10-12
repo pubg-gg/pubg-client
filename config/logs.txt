@@ -5,3 +5,4 @@ Update editorial calendar
 Draft blog outline
 Update hedging plan
 Note toggle plan
+Analyze user feedback
