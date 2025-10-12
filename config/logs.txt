@@ -1,1 +1,2 @@
 Update reproducibility logs
+Capture article topics
