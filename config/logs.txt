@@ -1,3 +1,4 @@
 Draft PR highlights
 List action follow-ups
 Draft social post plan
+Draft SSO integration
