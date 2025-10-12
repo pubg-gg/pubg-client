@@ -3,3 +3,4 @@ Capture article topics
 Update partner map
 List rotation schedule
 Update incident timeline
+Record validation scores
