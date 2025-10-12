@@ -4,3 +4,4 @@ Record NPS score
 Draft reproducibility plan
 List resource needs
 Draft reproducibility plan
+Review architecture decisions
