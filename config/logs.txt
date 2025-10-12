@@ -1,3 +1,4 @@
 Note DPA clauses
 Research best practices
 Note cross-browser tests
+Draft contest plan
