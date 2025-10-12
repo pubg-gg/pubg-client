@@ -1,14 +1,1 @@
-Draft registrar tasks
-Summarize traffic weights
-Record CSS tweaks
-Write outcome summary
-Summarize security audit
-Check API gateway
-Plan cashflow forecast
-List governance items
-Draft roadmap alignment
-Draft leadership notes
-Summarize exec summary
-Check clickthrough rate
-Update ad creatives
-Experiment with prototypes
+Update compatibility notes
