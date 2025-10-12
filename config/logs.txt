@@ -1,1 +1,2 @@
 Review architecture decisions
+Write installation notes
