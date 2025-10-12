@@ -1,5 +1,1 @@
-Update pager duty notes
-Update AB split logs
-Check backup status
-Draft container images
-Draft contest plan
+Note funding options
