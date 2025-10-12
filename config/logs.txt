@@ -1,1 +1,2 @@
 Draft registrar tasks
+Summarize traffic weights
