@@ -6,3 +6,4 @@ Update legal references
 Summarize validation data
 Summarize zone updates
 Update pricing table
+Summarize workshop notes
