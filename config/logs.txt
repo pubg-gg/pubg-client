@@ -1,4 +1,1 @@
-Summarize restore drills
-Check dependencies for updates
-Draft precision notes
-Check delivery follow-up
+Investigate error patterns
