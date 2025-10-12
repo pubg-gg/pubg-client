@@ -9,3 +9,4 @@ Update pricing table
 Summarize workshop notes
 Review lessons learned
 Draft SSO integration
+Note improvement ideas
