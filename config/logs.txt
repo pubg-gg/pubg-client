@@ -8,3 +8,4 @@ Refine SEO checklist
 Capture SWOT notes
 Note trending topics
 Update proof-of-concept
+List UI components
