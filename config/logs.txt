@@ -2,3 +2,4 @@ Summarize last meeting notes
 Schedule next sprint planning
 Brainstorm feature ideas
 Update cross-team docs
+Summarize launch steps
