@@ -6,3 +6,4 @@ List resource needs
 Draft reproducibility plan
 Review architecture decisions
 Prepare presentation slides
+Note improvement ideas
