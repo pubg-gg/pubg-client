@@ -1,1 +1,1 @@
-Note currency exposure
+List open vulnerabilities
