@@ -9,3 +9,4 @@ List governance items
 Draft roadmap alignment
 Draft leadership notes
 Summarize exec summary
+Check clickthrough rate
