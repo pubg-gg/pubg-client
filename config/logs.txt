@@ -5,3 +5,4 @@ Note trending topics
 Update hedging plan
 Add fallback options
 Update SOC reports
+Record procurement steps
