@@ -1,2 +1,3 @@
 Review architecture decisions
 Write installation notes
+Draft emergency contacts
