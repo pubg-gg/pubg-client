@@ -1,10 +1,1 @@
-Review architecture decisions
-Write installation notes
-Draft emergency contacts
-Summarize uptime data
-Draft retro notes
-Record shift handovers
-Update changelog with details
-Plan cashflow forecast
-Summarize security audit
-Summarize scaling notes
+Record event calendar
