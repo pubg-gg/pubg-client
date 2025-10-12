@@ -1,5 +1,1 @@
-Investigate error patterns
-Draft root cause notes
-Update release notes
-Summarize contingency plan
-Summarize QA audits
+Note DPA clauses
