@@ -1,3 +1,4 @@
 List OKRs
 Log strategic initiatives
 Update session rules
+Note configuration changes
