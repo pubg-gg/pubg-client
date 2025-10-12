@@ -1,1 +1,1 @@
-Record infra costs
+Review architecture decisions
