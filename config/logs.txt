@@ -7,3 +7,4 @@ Record validation scores
 Check clickthrough rate
 Summarize adoption metrics
 Draft export compliance
+Summarize launch steps
