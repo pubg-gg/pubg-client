@@ -1,2 +1,1 @@
-Record acceptance tests
-Draft forum summary
+Draft registrar tasks
