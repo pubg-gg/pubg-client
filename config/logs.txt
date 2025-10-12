@@ -5,3 +5,4 @@ List rotation schedule
 Update incident timeline
 Record validation scores
 Check clickthrough rate
+Summarize adoption metrics
