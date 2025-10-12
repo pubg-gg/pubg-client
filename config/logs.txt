@@ -12,3 +12,4 @@ Draft SSO integration
 Note improvement ideas
 Draft compliance review
 Update infra diagram
+Draft loyalty program
