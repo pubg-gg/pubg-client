@@ -1,2 +1,3 @@
 Note suspicious patterns
 Adjust retry logic
+Draft optimization notes
