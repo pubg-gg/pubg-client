@@ -1,17 +1,1 @@
-Draft testimonials list
-Draft blog outline
-Update pricing table
-Draft optimization notes
-Update plan for next release
-Update reproducibility logs
-Review financial risks
-Note toggle plan
-Record CSS tweaks
-Prepare status email
-Record sign-off notes
-Note DPA clauses
-Refactor helper functions
-Update proof-of-concept
-Draft routing policies
-Note GDPR tasks
-Draft liquidity plan
+Note blocker list
