@@ -4,3 +4,4 @@ Check ISO documents
 Summarize rollout success
 Plan oncall shifts
 Update language packs
+Check backup status
