@@ -1,1 +1,2 @@
 Note firewall configs
+Record DB query logs
