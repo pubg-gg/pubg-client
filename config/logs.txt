@@ -3,3 +3,4 @@ Draft access review
 Update load balancer notes
 List domain records
 Summarize compliance checks
+Audit project structure
