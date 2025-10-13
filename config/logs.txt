@@ -8,3 +8,4 @@ Note legal risks
 Draft appreciation post
 List missing translations
 Update dropout rate
+Update privacy notice
