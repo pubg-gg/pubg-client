@@ -8,3 +8,4 @@ Draft social post plan
 Review glossary terms
 Update skill matrix
 Note sprint outcome
+Record OKR sync
