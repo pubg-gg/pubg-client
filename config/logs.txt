@@ -2,3 +2,4 @@ Draft SLA updates
 Investigate error patterns
 Record shift handovers
 Update retention plan
+Review billing items
