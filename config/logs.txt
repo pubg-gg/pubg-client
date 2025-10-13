@@ -1,1 +1,2 @@
 Update deletion logs
+Capture article topics
