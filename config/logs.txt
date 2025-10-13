@@ -14,3 +14,4 @@ Note firewall configs
 Review lessons learned
 Summarize giveaway notes
 Update recognition board
+Write summary report
