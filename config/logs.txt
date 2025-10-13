@@ -1,4 +1,1 @@
-Draft experiment log
-Summarize employee feedback
-Write installation notes
-Refactor old modules
+Update device matrix
