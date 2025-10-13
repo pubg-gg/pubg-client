@@ -1,2 +1,1 @@
-Review escalation paths
-Update mentoring plan
+Update kill switch
