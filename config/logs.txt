@@ -9,3 +9,4 @@ Update AUC results
 Update brand colors
 Update diagrams
 Summarize workshop notes
+Draft training slides
