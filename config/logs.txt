@@ -10,3 +10,4 @@ Update brand colors
 Update diagrams
 Summarize workshop notes
 Draft training slides
+Record compliance status
