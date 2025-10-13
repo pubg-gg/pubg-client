@@ -8,3 +8,4 @@ Summarize referral data
 Log post-launch issues
 Plan outreach tasks
 Check ISO documents
+Record competitor moves
