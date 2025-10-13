@@ -7,3 +7,4 @@ Update AUC results
 Review billing items
 Draft opportunity list
 Summarize industry news
+Record downtime reports
