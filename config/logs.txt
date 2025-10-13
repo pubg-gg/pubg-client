@@ -9,3 +9,4 @@ Note toggle plan
 Record CSS tweaks
 Prepare status email
 Record sign-off notes
+Note DPA clauses
