@@ -1,1 +1,2 @@
 Draft support script
+Draft exploration notes
