@@ -8,3 +8,4 @@ Note cross-browser tests
 Update AUC results
 Update brand colors
 Update diagrams
+Summarize workshop notes
