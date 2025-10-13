@@ -1,7 +1,1 @@
-Update legal references
-Update migration scripts
-Check ISO documents
-Summarize rollout success
-Plan oncall shifts
-Update language packs
-Check backup status
+Update mitigation table
