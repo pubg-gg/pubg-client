@@ -1,2 +1,3 @@
 Review revenue data
 Record stock counts
+Fix minor issues in workflow
