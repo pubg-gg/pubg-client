@@ -1,2 +1,1 @@
-Draft pseudonymization plan
-Review WAF settings
+Draft support script
