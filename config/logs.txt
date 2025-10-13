@@ -24,3 +24,4 @@ Note press mentions
 Schedule publishing plan
 Note audit trail
 Draft container images
+Draft appreciation post
