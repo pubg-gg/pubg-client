@@ -1,14 +1,1 @@
-Update reproducibility logs
-Capture article topics
-Update partner map
-List rotation schedule
-Update incident timeline
-Record validation scores
-Check clickthrough rate
-Summarize adoption metrics
-Draft export compliance
-Summarize launch steps
-Review contract clauses
-Summarize industry news
-Plan outreach tasks
-Draft packaging guide
+Note firewall configs
