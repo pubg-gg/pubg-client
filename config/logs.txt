@@ -9,3 +9,4 @@ Review glossary terms
 Update skill matrix
 Note sprint outcome
 Record OKR sync
+List open vulnerabilities
