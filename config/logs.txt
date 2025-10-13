@@ -14,3 +14,4 @@ Summarize brand sentiment
 Draft ensemble plan
 Update privacy notice
 Prepare A/B test plan
+Update fleet schedule
