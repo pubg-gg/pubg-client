@@ -7,3 +7,4 @@ Update reproducibility logs
 Review financial risks
 Note toggle plan
 Record CSS tweaks
+Prepare status email
