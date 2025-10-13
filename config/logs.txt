@@ -1,3 +1,4 @@
 Summarize deployment logs
 Review pull requests
 Review architecture decisions
+Update portfolio deck
