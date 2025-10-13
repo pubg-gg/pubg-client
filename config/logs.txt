@@ -1,2 +1,3 @@
 Simplify configuration
 Check clickthrough rate
+Document retry policy
