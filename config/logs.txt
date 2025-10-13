@@ -6,3 +6,4 @@ Update tracking board
 Refactor old modules
 Note legal risks
 Draft appreciation post
+List missing translations
