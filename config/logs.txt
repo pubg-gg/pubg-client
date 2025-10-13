@@ -1,1 +1,2 @@
 Draft optimization notes
+Review escalation paths
