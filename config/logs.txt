@@ -11,3 +11,4 @@ Update dropout rate
 Update privacy notice
 Prepare presentation slides
 Note firewall configs
+Review lessons learned
