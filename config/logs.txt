@@ -1,1 +1,1 @@
-Summarize uptime data
+Summarize deployment logs
