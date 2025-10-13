@@ -3,3 +3,4 @@ Draft exploration notes
 Review revenue data
 Update retention plan
 Update status of tasks
+Update dependency versions
