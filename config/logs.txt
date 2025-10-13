@@ -2,3 +2,4 @@ Review monitoring setup
 Note recall issues
 Update threat model
 Prepare hiring plan
+Note press mentions
