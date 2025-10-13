@@ -4,3 +4,4 @@ Update pricing table
 Draft optimization notes
 Update plan for next release
 Update reproducibility logs
+Review financial risks
