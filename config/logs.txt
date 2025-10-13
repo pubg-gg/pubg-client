@@ -1,2 +1,3 @@
 Draft experiment log
 Summarize employee feedback
+Write installation notes
