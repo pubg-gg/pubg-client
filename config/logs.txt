@@ -1,5 +1,1 @@
-Draft policy updates
-Draft retro notes
-Check breaking changes
-Plan rollback procedure
-Record blue-green notes
+Update legal references
