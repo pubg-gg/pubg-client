@@ -13,3 +13,4 @@ Draft training slides
 Record compliance status
 Draft feature proposal
 Add fallback options
+Summarize zone updates
