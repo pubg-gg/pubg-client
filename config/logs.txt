@@ -1,4 +1,1 @@
-Note blocker list
-Update portfolio deck
-Schedule next sprint planning
-Update release notes
+Prepare roadmap for Q1
