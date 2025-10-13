@@ -5,3 +5,4 @@ Update portfolio deck
 Update incident timeline
 Update poll results
 Summarize launch steps
+Note DPA clauses
