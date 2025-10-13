@@ -4,3 +4,4 @@ Note funding options
 List known limitations
 Update tracking board
 Refactor old modules
+Note legal risks
