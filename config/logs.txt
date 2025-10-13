@@ -16,3 +16,4 @@ Update privacy notice
 Prepare A/B test plan
 Update fleet schedule
 Draft detection rules
+Draft upsell campaign
