@@ -12,3 +12,4 @@ Summarize workshop notes
 Draft training slides
 Record compliance status
 Draft feature proposal
+Add fallback options
