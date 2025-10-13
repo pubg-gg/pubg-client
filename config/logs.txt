@@ -4,3 +4,4 @@ Review revenue data
 Update retention plan
 Update status of tasks
 Update dependency versions
+Draft liquidity plan
