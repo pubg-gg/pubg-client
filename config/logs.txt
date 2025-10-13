@@ -1,6 +1,1 @@
-Simplify configuration
-Check clickthrough rate
-Document retry policy
-List banking contacts
-Update ad creatives
-Summarize launch steps
+Add unit test coverage
