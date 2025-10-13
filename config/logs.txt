@@ -2,3 +2,4 @@ Draft support script
 Draft exploration notes
 Review revenue data
 Update retention plan
+Update status of tasks
