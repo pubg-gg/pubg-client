@@ -1,16 +1,1 @@
-Update mitigation table
-Update AB split logs
-Draft error codes
-Update AB split logs
-Check error handling
-Summarize outage causes
-Note cross-browser tests
-Update AUC results
-Update brand colors
-Update diagrams
-Summarize workshop notes
-Draft training slides
-Record compliance status
-Draft feature proposal
-Add fallback options
-Summarize zone updates
+Simplify configuration
