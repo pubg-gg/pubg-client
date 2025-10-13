@@ -2,3 +2,4 @@ Note currency exposure
 Record certificate renewals
 Refactor old modules
 Note coverage scores
+Summarize version bumps
