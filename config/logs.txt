@@ -13,3 +13,4 @@ Draft experiment results
 Summarize caching results
 Record prototype feedback
 Draft policy updates
+Update partner map
