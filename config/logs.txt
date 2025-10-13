@@ -1,1 +1,2 @@
 Add privacy considerations
+Update API limits
