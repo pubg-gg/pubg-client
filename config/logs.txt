@@ -1,2 +1,3 @@
 Update deletion logs
 Capture article topics
+Record IDS findings
