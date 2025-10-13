@@ -2,3 +2,4 @@ Simplify configuration
 Check clickthrough rate
 Document retry policy
 List banking contacts
+Update ad creatives
