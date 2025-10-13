@@ -3,3 +3,4 @@ Update migration scripts
 Check ISO documents
 Summarize rollout success
 Plan oncall shifts
+Update language packs
