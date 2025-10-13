@@ -20,3 +20,4 @@ Draft upsell campaign
 Summarize DDoS tests
 Check build artifacts
 Summarize outage causes
+Note press mentions
