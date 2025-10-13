@@ -11,3 +11,4 @@ Summarize launch steps
 Review contract clauses
 Summarize industry news
 Plan outreach tasks
+Draft packaging guide
