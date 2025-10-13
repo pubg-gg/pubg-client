@@ -1,3 +1,4 @@
 Record feedback cycle
 Log regression issues
 List banking contacts
+Record CI/CD pipeline
