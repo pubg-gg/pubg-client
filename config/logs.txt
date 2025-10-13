@@ -1,1 +1,2 @@
 Draft pseudonymization plan
+Review WAF settings
