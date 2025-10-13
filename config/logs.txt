@@ -1,2 +1,3 @@
 Note blocker list
 Update portfolio deck
+Schedule next sprint planning
