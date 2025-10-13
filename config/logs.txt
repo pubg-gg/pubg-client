@@ -5,3 +5,4 @@ List domain records
 Summarize compliance checks
 Audit project structure
 Check backup status
+Summarize uptime data
