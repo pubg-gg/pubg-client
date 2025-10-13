@@ -12,3 +12,4 @@ Record OKR sync
 List open vulnerabilities
 Summarize brand sentiment
 Draft ensemble plan
+Update privacy notice
