@@ -1,12 +1,1 @@
-Note accessibility gaps
-Update dispute outcomes
-Update collaboration doc
-Update portfolio deck
-Update incident timeline
-Update poll results
-Summarize launch steps
-Note DPA clauses
-Draft recovery notes
-Draft mockup notes
-Record interview notes
-Summarize funnel metrics
+Record shift handovers
