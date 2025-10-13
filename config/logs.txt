@@ -16,3 +16,4 @@ Summarize giveaway notes
 Update recognition board
 Write summary report
 Draft style samples
+Review cost savings
