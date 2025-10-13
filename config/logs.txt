@@ -1,10 +1,1 @@
-Note currency exposure
-Record certificate renewals
-Refactor old modules
-Note coverage scores
-Summarize version bumps
-Update AUC results
-Review billing items
-Draft opportunity list
-Summarize industry news
-Record downtime reports
+Note accessibility gaps
