@@ -11,3 +11,4 @@ Update diagrams
 Summarize workshop notes
 Draft training slides
 Record compliance status
+Draft feature proposal
