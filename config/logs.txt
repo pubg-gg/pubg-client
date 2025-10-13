@@ -4,3 +4,4 @@ Draft error codes
 Update AB split logs
 Check error handling
 Summarize outage causes
+Note cross-browser tests
