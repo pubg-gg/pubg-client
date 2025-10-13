@@ -7,3 +7,4 @@ Refactor old modules
 Note legal risks
 Draft appreciation post
 List missing translations
+Update dropout rate
