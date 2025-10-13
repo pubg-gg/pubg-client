@@ -7,3 +7,4 @@ Summarize outage causes
 Note cross-browser tests
 Update AUC results
 Update brand colors
+Update diagrams
