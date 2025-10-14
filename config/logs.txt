@@ -8,3 +8,4 @@ Prepare case studies
 Audit database schema
 Brainstorm feature ideas
 Research best practices
+Review monitoring setup
