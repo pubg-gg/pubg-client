@@ -1,2 +1,3 @@
 Update dropout rate
 Update session rules
+Note registry updates
