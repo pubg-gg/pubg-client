@@ -1,1 +1,2 @@
 Update dropout rate
+Update session rules
