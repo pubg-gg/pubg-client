@@ -1,1 +1,2 @@
 Clarify design goals
+Draft liquidity plan
