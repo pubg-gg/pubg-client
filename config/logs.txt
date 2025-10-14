@@ -9,3 +9,4 @@ Note improvement ideas
 List password policies
 Schedule next sprint planning
 Note currency exposure
+Draft accessibility review
