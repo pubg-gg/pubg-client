@@ -7,3 +7,4 @@ Review SLA metrics
 Note interest changes
 Update session rules
 Summarize CI logs
+Summarize last meeting notes
