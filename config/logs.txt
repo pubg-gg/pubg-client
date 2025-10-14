@@ -1,2 +1,1 @@
-Update AUC results
-Update fleet schedule
+Clarify design goals
