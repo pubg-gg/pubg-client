@@ -9,3 +9,4 @@ Update session rules
 Summarize CI logs
 Summarize last meeting notes
 Note press mentions
+Check error handling
