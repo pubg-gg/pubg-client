@@ -1,9 +1,1 @@
-Update status of tasks
-Check build artifacts
-List cluster configs
-Summarize journalist list
-Note DPA clauses
-Note reorder points
-Note conference topics
-Polish UI interactions
-Check anomaly alerts
+Review escalation paths
