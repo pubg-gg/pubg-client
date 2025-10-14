@@ -1,3 +1,4 @@
 Update collaboration doc
 Outline documentation gaps
 Draft opportunity list
+Document hotfix steps
