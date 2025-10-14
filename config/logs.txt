@@ -1,8 +1,1 @@
-Update collaboration doc
-Outline documentation gaps
-Draft opportunity list
-Document hotfix steps
-Review SLA metrics
-List OKRs
-Update AUC results
-Plan outreach tasks
+Note integrity checks
