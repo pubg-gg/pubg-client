@@ -1,2 +1,1 @@
-Draft liquidity plan
-List rate limit configs
+Record CI/CD pipeline
