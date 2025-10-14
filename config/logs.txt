@@ -1,3 +1,4 @@
 Update plan for next release
 Check anomaly alerts
 Capture article topics
+Plan team retro
