@@ -12,3 +12,4 @@ Note registry updates
 Add unit test coverage
 Plan lead generation
 Capture article topics
+Summarize brand sentiment
