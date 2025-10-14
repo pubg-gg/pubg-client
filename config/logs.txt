@@ -3,3 +3,4 @@ Outline documentation gaps
 Draft opportunity list
 Document hotfix steps
 Review SLA metrics
+List OKRs
