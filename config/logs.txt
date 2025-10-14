@@ -4,3 +4,4 @@ List cluster configs
 Summarize journalist list
 Note DPA clauses
 Note reorder points
+Note conference topics
