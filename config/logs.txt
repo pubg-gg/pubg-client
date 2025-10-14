@@ -5,3 +5,4 @@ Note lessons learned
 Review MFA adoption
 Summarize DDoS tests
 Summarize content audit
+Draft onboarding steps
