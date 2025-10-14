@@ -1,3 +1,4 @@
 Review pod limits
 Draft logistics plan
 Capture open questions
+Record steering notes
