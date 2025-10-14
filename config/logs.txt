@@ -1,3 +1,4 @@
 Update status of tasks
 Check build artifacts
 List cluster configs
+Summarize journalist list
