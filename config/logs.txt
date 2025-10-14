@@ -1,12 +1,1 @@
-Update plan for next release
-Check anomaly alerts
-Capture article topics
-Plan team retro
-Update style guide
-Review SLA metrics
-Note interest changes
-Update session rules
-Summarize CI logs
-Summarize last meeting notes
-Note press mentions
-Check error handling
+Log board decisions
