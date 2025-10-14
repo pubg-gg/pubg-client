@@ -2,3 +2,4 @@ Update session rules
 Draft ethics policy
 List known limitations
 Draft feature flag list
+Note winner list
