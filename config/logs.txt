@@ -1,2 +1,3 @@
 Recheck boundary cases
 Note DPA clauses
+Summarize FX updates
