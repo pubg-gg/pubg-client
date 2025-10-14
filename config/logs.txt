@@ -1,2 +1,3 @@
 Draft loyalty program
 Expand integration tests
+Summarize PCI items
