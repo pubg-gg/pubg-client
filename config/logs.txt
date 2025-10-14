@@ -5,3 +5,4 @@ Summarize journalist list
 Note DPA clauses
 Note reorder points
 Note conference topics
+Polish UI interactions
