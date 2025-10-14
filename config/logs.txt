@@ -1,1 +1,2 @@
 Update plan for next release
+Check anomaly alerts
