@@ -4,3 +4,4 @@ Note conference topics
 List rotation schedule
 Record media queries
 Capture open questions
+Summarize velocity trend
