@@ -5,3 +5,4 @@ Schedule publishing plan
 Update tracking board
 Update tracking board
 Review code for optimization
+List missing translations
