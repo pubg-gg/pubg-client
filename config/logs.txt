@@ -1,9 +1,1 @@
-Note content review
-Update role matrix
-Draft optimization notes
-Schedule publishing plan
-Update tracking board
-Update tracking board
-Review code for optimization
-List missing translations
-Check build artifacts
+Draft liquidity plan
