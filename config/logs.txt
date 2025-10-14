@@ -4,3 +4,4 @@ Capture article topics
 Plan team retro
 Update style guide
 Review SLA metrics
+Note interest changes
