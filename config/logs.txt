@@ -1,8 +1,1 @@
-Add unit test coverage
-Draft forum summary
-Summarize QA audits
-Note lessons learned
-Review MFA adoption
-Summarize DDoS tests
-Summarize content audit
-Draft onboarding steps
+List hypothesis tests
