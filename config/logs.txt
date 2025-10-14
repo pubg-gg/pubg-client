@@ -3,3 +3,4 @@ Check API gateway
 Update AUC results
 Collect metrics for dashboard
 Schedule next sprint planning
+Update dependency versions
