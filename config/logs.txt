@@ -9,3 +9,4 @@ Outline documentation gaps
 Review caching strategy
 Summarize content audit
 Note registry updates
+Add unit test coverage
