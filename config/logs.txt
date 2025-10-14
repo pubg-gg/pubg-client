@@ -10,3 +10,4 @@ Review caching strategy
 Summarize content audit
 Note registry updates
 Add unit test coverage
+Plan lead generation
