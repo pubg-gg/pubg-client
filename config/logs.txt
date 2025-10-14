@@ -1,4 +1,1 @@
-Recheck boundary cases
-Note DPA clauses
-Summarize FX updates
-Summarize giveaway notes
+Update collaboration doc
