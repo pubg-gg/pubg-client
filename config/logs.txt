@@ -3,3 +3,4 @@ Update session rules
 Note registry updates
 Recheck boundary cases
 Record CCPA checks
+Draft weekly digest
