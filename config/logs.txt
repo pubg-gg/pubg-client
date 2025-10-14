@@ -1,3 +1,4 @@
 Review escalation paths
 Review WAF settings
 Check error handling
+Add alternative approaches
