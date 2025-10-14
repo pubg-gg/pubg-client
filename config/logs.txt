@@ -3,3 +3,4 @@ Review WAF settings
 Check error handling
 Add alternative approaches
 Note escalation matrix
+List technical debts
