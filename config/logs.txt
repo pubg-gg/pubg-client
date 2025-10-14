@@ -10,3 +10,4 @@ Brainstorm feature ideas
 Research best practices
 Review monitoring setup
 Update dropout rate
+Draft experiment log
