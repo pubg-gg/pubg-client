@@ -1,2 +1,3 @@
 Update SOC reports
 Note customer churn
+Summarize KPIs
