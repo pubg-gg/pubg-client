@@ -2,3 +2,4 @@ Note content review
 Update role matrix
 Draft optimization notes
 Schedule publishing plan
+Update tracking board
