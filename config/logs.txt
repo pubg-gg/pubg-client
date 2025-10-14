@@ -3,3 +3,4 @@ Prepare hiring plan
 Summarize scaling notes
 Update confusion matrix
 Draft routing policies
+Evaluate third-party libs
