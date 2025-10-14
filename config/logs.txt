@@ -1,3 +1,4 @@
 Draft release checklist
 Check API gateway
 Update AUC results
+Collect metrics for dashboard
