@@ -1,1 +1,2 @@
 Draft release checklist
+Check API gateway
