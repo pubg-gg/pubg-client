@@ -1,1 +1,2 @@
 Update status of tasks
+Check build artifacts
