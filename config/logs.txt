@@ -1,2 +1,3 @@
 Note integrity checks
 Track library updates
+Summarize workshop notes
