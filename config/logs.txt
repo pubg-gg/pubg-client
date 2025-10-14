@@ -5,3 +5,4 @@ Note dataset sources
 List influencer mentions
 Review monitoring setup
 Prepare case studies
+Audit database schema
