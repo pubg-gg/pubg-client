@@ -7,3 +7,4 @@ Record OKR sync
 Plan cashflow forecast
 Brainstorm feature ideas
 Summarize contract renewals
+Record NPS score
