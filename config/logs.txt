@@ -5,3 +5,4 @@ Add alternative approaches
 Note escalation matrix
 List technical debts
 Summarize validation data
+Outline documentation gaps
