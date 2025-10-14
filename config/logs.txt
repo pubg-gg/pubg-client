@@ -8,3 +8,4 @@ Summarize velocity trend
 Note legal risks
 Note cluster issues
 Update redundancy notes
+Record key rotation plan
