@@ -10,3 +10,4 @@ Note cluster issues
 Update redundancy notes
 Record key rotation plan
 Record gradual rollout
+Update glossary
