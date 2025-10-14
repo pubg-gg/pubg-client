@@ -1,4 +1,1 @@
-Note integrity checks
-Record interview notes
-Update reproducibility logs
-Update compatibility notes
+Update dropout rate
