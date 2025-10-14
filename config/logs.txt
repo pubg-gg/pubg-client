@@ -1,3 +1,4 @@
 Summarize QA audits
 Record import duties
 Note dataset sources
+Document hotfix steps
