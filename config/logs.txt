@@ -8,3 +8,4 @@ Summarize CI logs
 Summarize traffic weights
 Note configuration changes
 Record engagement stats
+Update redundancy notes
