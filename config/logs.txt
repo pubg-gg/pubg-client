@@ -1,2 +1,3 @@
 Draft onboarding checklist
 Review escalation paths
+Update status of tasks
