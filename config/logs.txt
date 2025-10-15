@@ -5,3 +5,4 @@ Record certification status
 Update style guide
 Draft appreciation post
 Plan career paths
+Record validation scores
