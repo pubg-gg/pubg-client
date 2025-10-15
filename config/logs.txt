@@ -4,3 +4,4 @@ Update status of tasks
 Plan outreach tasks
 Note identity checks
 Update pager duty notes
+Summarize CI logs
