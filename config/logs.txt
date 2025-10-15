@@ -1,2 +1,3 @@
 Summarize key takeaways
 Update editorial calendar
+Note training epochs
