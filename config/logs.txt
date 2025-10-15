@@ -5,3 +5,4 @@ Update device matrix
 Update outreach contacts
 Update logging sinks
 Summarize audits
+Review performance budgets
