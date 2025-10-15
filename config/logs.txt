@@ -1,2 +1,3 @@
 Draft upsell campaign
 Record CI/CD pipeline
+Summarize version bumps
