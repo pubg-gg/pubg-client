@@ -8,3 +8,4 @@ Update tracking board
 Plan outreach tasks
 Record expense items
 Update SSL chain
+Record compliance status
