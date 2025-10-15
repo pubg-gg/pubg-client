@@ -10,3 +10,4 @@ List shipping costs
 Update contact list
 Record treasury notes
 Record load test data
+Update alerting rules
