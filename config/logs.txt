@@ -3,3 +3,4 @@ Update proof-of-concept
 Capture monitoring gaps
 Review lessons learned
 Summarize compliance checks
+Check TLS configuration
