@@ -6,3 +6,4 @@ Summarize compliance checks
 Check TLS configuration
 Update tracking board
 Plan outreach tasks
+Record expense items
