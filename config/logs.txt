@@ -10,3 +10,4 @@ Note configuration changes
 Record engagement stats
 Update redundancy notes
 Draft PR highlights
+Note blocker list
