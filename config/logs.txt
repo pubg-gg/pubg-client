@@ -14,3 +14,4 @@ Update alerting rules
 Track training sessions
 Recheck boundary cases
 List rotation schedule
+Schedule publishing plan
