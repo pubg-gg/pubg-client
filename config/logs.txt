@@ -1,9 +1,1 @@
-Update SOC reports
-Note customer churn
-Summarize KPIs
-Log post-launch issues
-Draft escalation doc
-Record acceptance tests
-Note firewall configs
-Draft accessibility review
-Record DB query logs
+Write press release draft
