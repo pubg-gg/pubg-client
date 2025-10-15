@@ -3,3 +3,4 @@ Update infra diagram
 Refactor old modules
 Summarize journalist list
 Record cache purge steps
+Note blocker list
