@@ -3,3 +3,4 @@ Record event calendar
 Note DPA clauses
 Note alignment checks
 Update annotation tool
+Summarize SIEM setup
