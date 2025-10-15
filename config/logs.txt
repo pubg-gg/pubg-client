@@ -7,3 +7,4 @@ Update logging sinks
 Summarize audits
 Review performance budgets
 List shipping costs
+Update contact list
