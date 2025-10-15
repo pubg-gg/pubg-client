@@ -2,3 +2,4 @@ Evaluate automation options
 Update infra diagram
 Refactor old modules
 Summarize journalist list
+Record cache purge steps
