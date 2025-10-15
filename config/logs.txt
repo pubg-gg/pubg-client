@@ -5,3 +5,4 @@ Review lessons learned
 Summarize compliance checks
 Check TLS configuration
 Update tracking board
+Plan outreach tasks
