@@ -3,3 +3,4 @@ Note customer churn
 Summarize KPIs
 Log post-launch issues
 Draft escalation doc
+Record acceptance tests
