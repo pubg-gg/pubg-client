@@ -8,3 +8,4 @@ Plan career paths
 Record validation scores
 Record acceptance tests
 Summarize hyperparam runs
+Summarize call notes
