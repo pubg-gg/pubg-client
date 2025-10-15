@@ -2,3 +2,4 @@ Draft precision notes
 Refine backlog items
 Summarize dependency map
 Record certification status
+Update style guide
