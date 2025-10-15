@@ -8,3 +8,4 @@ Summarize audits
 Review performance budgets
 List shipping costs
 Update contact list
+Record treasury notes
