@@ -6,3 +6,4 @@ Draft escalation doc
 Record acceptance tests
 Note firewall configs
 Draft accessibility review
+Record DB query logs
