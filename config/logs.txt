@@ -1,3 +1,4 @@
 Update pricing table
 Update proof-of-concept
 Capture monitoring gaps
+Review lessons learned
