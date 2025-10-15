@@ -4,3 +4,4 @@ Summarize KPIs
 Log post-launch issues
 Draft escalation doc
 Record acceptance tests
+Note firewall configs
