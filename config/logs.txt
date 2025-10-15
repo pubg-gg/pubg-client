@@ -4,3 +4,4 @@ Summarize dependency map
 Record certification status
 Update style guide
 Draft appreciation post
+Plan career paths
