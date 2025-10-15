@@ -1,12 +1,1 @@
-Draft precision notes
-Refine backlog items
-Summarize dependency map
-Record certification status
-Update style guide
-Draft appreciation post
-Plan career paths
-Record validation scores
-Record acceptance tests
-Summarize hyperparam runs
-Summarize call notes
-Recheck boundary cases
+Update label templates
