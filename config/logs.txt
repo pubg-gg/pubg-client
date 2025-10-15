@@ -1,3 +1,4 @@
 Summarize opt-out stats
 Record event calendar
 Note DPA clauses
+Note alignment checks
