@@ -1,4 +1,1 @@
-Add privacy considerations
-Record arbitration steps
-Summarize deployment tests
-Record sign-off notes
+Draft precision notes
