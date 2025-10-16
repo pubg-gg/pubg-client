@@ -9,3 +9,4 @@ Update rollback notes
 Summarize warehouse logs
 Update style guide
 Summarize DDoS tests
+Note investment options
