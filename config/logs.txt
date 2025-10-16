@@ -1,4 +1,1 @@
-Check API gateway
-Record shift handovers
-Summarize giveaway notes
-Update annotation tool
+Draft leadership notes
