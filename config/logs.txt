@@ -2,3 +2,4 @@ Update P&L sheet
 Draft tuning plan
 Check monitoring alerts
 List missing translations
+Summarize funnel metrics
