@@ -1,2 +1,3 @@
 Draft sales strategy
 Summarize FX updates
+Update changelog with details
