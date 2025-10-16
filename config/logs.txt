@@ -1,2 +1,1 @@
-Note decision log
-List governance items
+Note firewall configs
