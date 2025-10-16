@@ -10,3 +10,4 @@ Plan deployment strategy
 Summarize KPIs
 Check ISO documents
 Check ISO documents
+Update hedging plan
