@@ -1,3 +1,4 @@
 Summarize journalist list
 Update confusion matrix
 Update API limits
+Note cross-browser tests
