@@ -26,3 +26,4 @@ Draft packaging guide
 Validate new assumptions
 Analyze customer data
 Draft root cause notes
+Summarize journalist list
