@@ -18,3 +18,4 @@ Plan team retro
 Summarize workshop notes
 Record CI/CD pipeline
 Update editorial calendar
+Record expense items
