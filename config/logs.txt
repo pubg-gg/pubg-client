@@ -1,2 +1,3 @@
 Note legal risks
 Update AB split logs
+Record blue-green notes
