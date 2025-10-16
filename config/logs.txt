@@ -18,3 +18,4 @@ Outline documentation gaps
 Analyze user feedback
 Prepare closure report
 Note jurisdiction issues
+Draft social post plan
