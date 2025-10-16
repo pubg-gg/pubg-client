@@ -1,2 +1,3 @@
 Summarize permission gaps
 Update release notes
+Draft packaging guide
