@@ -2,3 +2,4 @@ Summarize hyperparam runs
 List vendor options
 Plan workshop agenda
 Draft ethics policy
+Review logo sketches
