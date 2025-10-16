@@ -1,3 +1,4 @@
 Draft leadership notes
 Draft SSO integration
 Draft partnership ideas
+Note DNS changes
