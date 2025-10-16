@@ -1,2 +1,1 @@
-Note alignment checks
-Draft retro notes
+Check API gateway
