@@ -30,3 +30,4 @@ Summarize journalist list
 Draft migration checklist
 Log post-launch issues
 Summarize industry news
+Create new test cases
