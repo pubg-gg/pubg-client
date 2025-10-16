@@ -22,3 +22,4 @@ Record expense items
 Check breaking changes
 Update cron jobs
 Outline documentation gaps
+Draft packaging guide
