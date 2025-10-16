@@ -2,3 +2,4 @@ Summarize uptime data
 List DR procedures
 Define success criteria
 Note escalation matrix
+List shipping costs
