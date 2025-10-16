@@ -9,3 +9,4 @@ Summarize version bumps
 Draft celebration notes
 Draft optimization notes
 List OKRs
+Review contract clauses
