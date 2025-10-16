@@ -1,8 +1,1 @@
-Note identity checks
-Summarize referral data
-Summarize traffic weights
-Summarize litigation notes
-Update FAQ section
-Record event calendar
-Record CSS tweaks
-Summarize exec summary
+Log board decisions
