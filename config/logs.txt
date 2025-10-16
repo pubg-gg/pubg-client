@@ -1,8 +1,1 @@
-Update test matrix
-Update dependency versions
-Sketch new interface ideas
-Refine SEO checklist
-Record survey highlights
-Summarize opt-out stats
-Summarize risks identified
-Summarize feedback loops
+Record restore attempt
