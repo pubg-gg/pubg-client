@@ -37,3 +37,4 @@ Draft upsell campaign
 Summarize FX updates
 Draft canary rollout
 Draft NDA template
+List resource needs
