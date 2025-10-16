@@ -3,3 +3,4 @@ Draft SSO integration
 Draft partnership ideas
 Note DNS changes
 Draft container images
+Prepare presentation slides
