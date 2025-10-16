@@ -6,3 +6,4 @@ Summarize funnel metrics
 Record user stories
 Record prize details
 Note threshold breaches
+Summarize testing report
