@@ -14,3 +14,4 @@ Record blue-green notes
 Draft quarterly report
 Summarize testing report
 Summarize QA audits
+Plan team retro
