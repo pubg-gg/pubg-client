@@ -13,3 +13,4 @@ Write summary report
 Record blue-green notes
 Draft quarterly report
 Summarize testing report
+Summarize QA audits
