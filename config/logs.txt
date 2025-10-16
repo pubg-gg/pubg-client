@@ -17,3 +17,4 @@ Simplify configuration
 Outline documentation gaps
 Analyze user feedback
 Prepare closure report
+Note jurisdiction issues
