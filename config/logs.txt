@@ -1,2 +1,3 @@
 Summarize market trends
 Note funding options
+Review escalation paths
