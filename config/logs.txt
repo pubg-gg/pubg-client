@@ -4,3 +4,4 @@ Check monitoring alerts
 List missing translations
 Summarize funnel metrics
 Record user stories
+Record prize details
