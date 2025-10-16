@@ -11,3 +11,4 @@ Capture SWOT notes
 Record license info
 Write summary report
 Record blue-green notes
+Draft quarterly report
