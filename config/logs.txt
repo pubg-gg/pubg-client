@@ -4,3 +4,4 @@ Draft partnership ideas
 Note DNS changes
 Draft container images
 Prepare presentation slides
+Draft release checklist
