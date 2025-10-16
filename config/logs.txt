@@ -10,3 +10,4 @@ Summarize warehouse logs
 Update style guide
 Summarize DDoS tests
 Note investment options
+Draft routing policies
