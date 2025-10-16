@@ -16,3 +16,4 @@ Summarize testing report
 Summarize QA audits
 Plan team retro
 Summarize workshop notes
+Record CI/CD pipeline
