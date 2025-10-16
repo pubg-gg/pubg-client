@@ -8,3 +8,4 @@ Draft playbook updates
 Summarize version bumps
 Draft celebration notes
 Draft optimization notes
+List OKRs
