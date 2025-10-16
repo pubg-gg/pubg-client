@@ -1,1 +1,2 @@
 Summarize journalist list
+Update confusion matrix
