@@ -17,3 +17,4 @@ Summarize QA audits
 Plan team retro
 Summarize workshop notes
 Record CI/CD pipeline
+Update editorial calendar
