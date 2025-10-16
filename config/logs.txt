@@ -8,3 +8,4 @@ Record shift handovers
 Record budget estimates
 Plan deployment strategy
 Summarize KPIs
+Check ISO documents
