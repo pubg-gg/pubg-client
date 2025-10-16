@@ -16,3 +16,4 @@ Draft feature proposal
 Record risk register
 Draft appreciation post
 Update infra diagram
+Draft opportunity list
