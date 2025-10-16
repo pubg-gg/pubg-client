@@ -5,3 +5,4 @@ Note cross-browser tests
 Capture monitoring gaps
 Draft sourcing notes
 Note audit trail
+Plan lead generation
