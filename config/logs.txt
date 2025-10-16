@@ -13,3 +13,4 @@ Update mentoring plan
 Update P&L sheet
 Track library updates
 Draft feature proposal
+Record risk register
