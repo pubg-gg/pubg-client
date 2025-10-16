@@ -7,3 +7,4 @@ Record user stories
 Record prize details
 Note threshold breaches
 Summarize testing report
+Summarize velocity trend
