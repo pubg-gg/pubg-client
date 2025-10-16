@@ -1,2 +1,1 @@
-Record restore attempt
-Document retry policy
+Record DB query logs
