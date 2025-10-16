@@ -1,6 +1,1 @@
-Record DB query logs
-Draft export compliance
-Record downtime reports
-Update annotation tool
-Summarize KPIs
-Summarize rollback drills
+Note content review
