@@ -13,3 +13,4 @@ Note investment options
 Draft routing policies
 Review financial risks
 Record import duties
+Summarize warehouse logs
