@@ -7,3 +7,4 @@ Update legal references
 Summarize contract renewals
 Update rollback notes
 Summarize warehouse logs
+Update style guide
