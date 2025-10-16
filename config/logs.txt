@@ -1,2 +1,3 @@
 Note content review
 Note trend shifts
+Summarize traffic weights
