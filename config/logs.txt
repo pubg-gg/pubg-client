@@ -2,3 +2,4 @@ Note delivery issues
 Recheck security notes
 Check dependencies for updates
 Review caching strategy
+Draft ethics policy
