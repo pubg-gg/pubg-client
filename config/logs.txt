@@ -6,3 +6,4 @@ Check customs docs
 Review pull requests
 Record shift handovers
 Record budget estimates
+Plan deployment strategy
