@@ -13,3 +13,4 @@ Review contract clauses
 Note DPA clauses
 Log post-launch issues
 Record risk register
+Simplify configuration
