@@ -1,3 +1,4 @@
 Summarize permission gaps
 Update release notes
 Draft packaging guide
+Summarize version bumps
