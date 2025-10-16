@@ -7,3 +7,4 @@ Prepare presentation slides
 Draft release checklist
 Review glossary terms
 Note innovation backlog
+Check breaking changes
