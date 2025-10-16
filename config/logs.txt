@@ -33,3 +33,4 @@ Summarize industry news
 Create new test cases
 List booth designs
 Polish UI interactions
+Draft upsell campaign
