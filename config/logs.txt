@@ -1,2 +1,3 @@
 Update role matrix
 Note campaign results
+Evaluate automation options
