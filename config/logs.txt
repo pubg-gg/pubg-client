@@ -16,3 +16,4 @@ Record risk register
 Simplify configuration
 Outline documentation gaps
 Analyze user feedback
+Prepare closure report
