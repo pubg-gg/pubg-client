@@ -1,15 +1,1 @@
-Update pricing table
-Update proof-of-concept
-Capture monitoring gaps
-Review lessons learned
-Summarize compliance checks
-Check TLS configuration
-Update tracking board
-Plan outreach tasks
-Record expense items
-Update SSL chain
-Record compliance status
-Record engagement stats
-Record certification status
-Draft exploration notes
-Update API limits
+Summarize journalist list
