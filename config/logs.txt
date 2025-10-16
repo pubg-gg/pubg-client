@@ -5,3 +5,4 @@ Note escalation matrix
 List shipping costs
 Track configuration drift
 Update cron jobs
+Draft upsell campaign
