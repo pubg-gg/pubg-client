@@ -9,3 +9,4 @@ Plan capacity increase
 Update SSL chain
 Update governance notes
 Draft testimonials list
+Update mentoring plan
