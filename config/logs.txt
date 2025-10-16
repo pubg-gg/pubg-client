@@ -1,11 +1,1 @@
-Summarize uptime data
-List DR procedures
-Define success criteria
-Note escalation matrix
-List shipping costs
-Track configuration drift
-Update cron jobs
-Draft upsell campaign
-Review architecture decisions
-Summarize version bumps
-Evaluate third-party libs
+Note delivery issues
