@@ -1,2 +1,3 @@
 Update P&L sheet
 Draft tuning plan
+Check monitoring alerts
