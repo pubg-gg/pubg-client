@@ -20,3 +20,4 @@ Record CI/CD pipeline
 Update editorial calendar
 Record expense items
 Check breaking changes
+Update cron jobs
