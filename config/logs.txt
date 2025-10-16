@@ -3,3 +3,4 @@ List DR procedures
 Define success criteria
 Note escalation matrix
 List shipping costs
+Track configuration drift
