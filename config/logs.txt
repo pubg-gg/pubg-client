@@ -7,3 +7,4 @@ Track configuration drift
 Update cron jobs
 Draft upsell campaign
 Review architecture decisions
+Summarize version bumps
