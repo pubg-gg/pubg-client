@@ -5,3 +5,4 @@ Note toggle plan
 Summarize PCI items
 Draft playbook updates
 Draft playbook updates
+Summarize version bumps
