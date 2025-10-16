@@ -15,3 +15,4 @@ Draft quarterly report
 Summarize testing report
 Summarize QA audits
 Plan team retro
+Summarize workshop notes
