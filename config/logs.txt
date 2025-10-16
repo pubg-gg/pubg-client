@@ -11,3 +11,4 @@ Update SSL chain
 Record compliance status
 Record engagement stats
 Record certification status
+Draft exploration notes
