@@ -2,3 +2,4 @@ Improve modularity
 Record certification status
 Draft retro notes
 Update privacy notice
+Simplify configuration
