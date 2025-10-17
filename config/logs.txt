@@ -2,3 +2,4 @@ Record retention schedule
 Update CDN rules
 Note trending topics
 Add privacy considerations
+Draft pseudonymization plan
