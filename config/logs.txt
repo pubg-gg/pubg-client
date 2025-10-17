@@ -1,2 +1,1 @@
-Update partner map
-Summarize market trends
+Update alerting rules
