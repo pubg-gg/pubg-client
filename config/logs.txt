@@ -3,3 +3,4 @@ Update CDN rules
 Note trending topics
 Add privacy considerations
 Draft pseudonymization plan
+Note firewall configs
