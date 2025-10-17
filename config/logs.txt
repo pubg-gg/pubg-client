@@ -1,3 +1,4 @@
 Check container configs
 Record expense items
 Record survey highlights
+Expand integration tests
