@@ -1,2 +1,3 @@
 Summarize results
 Draft contest plan
+Plan deployment strategy
