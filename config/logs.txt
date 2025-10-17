@@ -10,3 +10,4 @@ Summarize testing report
 Summarize velocity trend
 Reevaluate requirements
 Draft weekly digest
+List missing coverage
