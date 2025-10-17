@@ -1,7 +1,1 @@
-Summarize referral data
-Update editorial calendar
-Note investment options
-List vendor options
-Summarize rollback drills
-Note pipeline DAG
-Summarize workshop notes
+Review code for optimization
