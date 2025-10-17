@@ -28,3 +28,4 @@ Update plan for next release
 Check TLS configuration
 Track timeline adjustments
 Note coverage scores
+Record interview notes
