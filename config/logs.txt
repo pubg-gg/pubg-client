@@ -4,3 +4,4 @@ Note trending topics
 Add privacy considerations
 Draft pseudonymization plan
 Note firewall configs
+Review caching strategy
