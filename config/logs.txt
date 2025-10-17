@@ -18,3 +18,4 @@ Summarize version bumps
 Update supply data
 Note deprecated functions
 Update SSL chain
+Draft migration checklist
