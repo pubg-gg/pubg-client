@@ -1,6 +1,1 @@
-Note encryption methods
-Record budget estimates
-Update poll results
-Record user stories
-Record cache purge steps
-Summarize PCI items
+Record retention schedule
