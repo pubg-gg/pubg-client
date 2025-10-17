@@ -1,2 +1,1 @@
-Check build artifacts
-Update plan for next release
+Draft emergency contacts
