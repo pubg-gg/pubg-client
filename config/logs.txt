@@ -1,1 +1,2 @@
 Update backup policy
+Draft packaging guide
