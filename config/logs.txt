@@ -1,1 +1,2 @@
 Draft emergency contacts
+Note configuration changes
