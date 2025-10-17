@@ -24,3 +24,4 @@ Update swag inventory
 Summarize regularization notes
 Update hash list
 Summarize caching results
+Update plan for next release
