@@ -21,3 +21,4 @@ Update SSL chain
 Draft migration checklist
 Draft testimonials list
 Update swag inventory
+Summarize regularization notes
