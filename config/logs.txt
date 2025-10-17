@@ -1,12 +1,1 @@
-Record retention schedule
-Update CDN rules
-Note trending topics
-Add privacy considerations
-Draft pseudonymization plan
-Note firewall configs
-Review caching strategy
-Plan career paths
-Record competitor scans
-Update cron jobs
-Update retention plan
-Draft blog outline
+Summarize results
