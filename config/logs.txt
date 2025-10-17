@@ -5,3 +5,4 @@ Add privacy considerations
 Draft pseudonymization plan
 Note firewall configs
 Review caching strategy
+Plan career paths
