@@ -1,12 +1,1 @@
-Update alerting rules
-Draft leadership notes
-Summarize zone updates
-Log regression issues
-Record downtime reports
-Update recognition board
-Record engagement stats
-Summarize caching results
-Draft cloud budget
-Summarize adoption metrics
-Draft policy updates
-Update portfolio deck
+Check build artifacts
