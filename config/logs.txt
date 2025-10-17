@@ -9,3 +9,4 @@ Plan career paths
 Record competitor scans
 Update cron jobs
 Update retention plan
+Draft blog outline
