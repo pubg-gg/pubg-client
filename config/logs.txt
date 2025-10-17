@@ -1,3 +1,4 @@
 Update backup policy
 Draft packaging guide
 Draft recovery notes
+Update glossary
