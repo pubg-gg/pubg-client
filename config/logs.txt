@@ -1,7 +1,1 @@
-Summarize CI logs
-Record conversion data
-Draft opportunity list
-Record engagement stats
-Record user stories
-Summarize traffic weights
-Summarize deployment logs
+Check container configs
