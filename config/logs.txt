@@ -1,3 +1,4 @@
 Draft emergency contacts
 Note configuration changes
 Update SOC reports
+Plan resource allocation
