@@ -16,3 +16,4 @@ Draft policy updates
 Research best practices
 Summarize version bumps
 Update supply data
+Note deprecated functions
