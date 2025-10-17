@@ -3,3 +3,4 @@ Update editorial calendar
 Note investment options
 List vendor options
 Summarize rollback drills
+Note pipeline DAG
