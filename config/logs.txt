@@ -1,3 +1,4 @@
 List pending approvals
 List rotation schedule
 Note campaign results
+Update session rules
